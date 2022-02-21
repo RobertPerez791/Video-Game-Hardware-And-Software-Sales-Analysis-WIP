@@ -1,1 +1,1 @@
-
+The Python scripts used to generate the initial datasets.  These scripts scrap information off of the web, in order to create the datasets used in the analysis.  The "vgchartz" script will generate the "vgsales_2021" dataset, while the "Consoles" script will generate the "BestSellingConsoles" dataset. 
