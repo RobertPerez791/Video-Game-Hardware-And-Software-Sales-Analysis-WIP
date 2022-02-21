@@ -1,0 +1,1001 @@
+Game_Rank,Name,Platform,Publisher,Developer,Critic_Score,Global_Sales,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Release_Date
+1,"Wii Sports",Wii,Nintendo,"Nintendo EAD",7.7,82.650,41.360,29.020,3.770,8.510,2006-11-19
+2,"Mario Kart 8 Deluxe",NS,Nintendo,"Nintendo EPD",9.3,13.050,5.050,4.980,2.110,0.910,2017-04-28
+3,"Super Mario Bros.",NES,Nintendo,"Nintendo EAD",10.0,40.240,29.080,3.580,6.810,0.770,1985-10-18
+4,"Mario Kart Wii",Wii,Nintendo,"Nintendo EAD",8.2,35.980,15.910,12.920,3.800,3.350,2008-04-27
+5,"Wii Sports Resort",Wii,Nintendo,"Nintendo EAD",8.0,32.900,15.610,10.990,3.290,3.020,2009-07-26
+6,"Pokémon Red / Green / Blue Version",GB,Nintendo,"Game Freak",9.4,31.370,11.270,8.890,10.220,1.000,1998-09-30
+7,"New Super Mario Bros.",DS,Nintendo,"Nintendo EAD",9.1,29.850,11.280,9.190,6.500,2.890,2006-05-15
+8,"New Super Mario Bros. Wii",Wii,Nintendo,"Nintendo EAD",8.6,28.510,14.530,7.010,4.700,2.270,2009-11-15
+9,Tetris,GB,Nintendo,"Bullet Proof Software",0.0,30.260,23.200,2.260,4.220,0.580,1989-07-31
+10,"Duck Hunt",NES,Nintendo,"Nintendo R&D1",0.0,28.310,26.930,0.630,0.280,0.470,1985-10-15
+11,"Wii Play",Wii,Nintendo,"Nintendo EAD",5.9,28.920,13.960,9.180,2.930,2.850,2007-02-12
+12,"Super Smash Bros. Ultimate",NS,Nintendo,"Bandai Namco Games",9.4,8.950,4.220,1.720,2.410,0.610,2018-12-07
+13,"The Legend of Zelda: Breath of the Wild",NS,Nintendo,"Nintendo EPD",9.9,9.460,4.540,2.940,1.260,0.730,2017-03-03
+14,"Kinect Adventures!",X360,"Microsoft Game Studios","Good Science Studio",6.7,22.100,15.090,4.970,0.240,1.810,2010-11-04
+15,Nintendogs,DS,Nintendo,"Nintendo EAD",8.4,24.680,9.050,10.960,1.930,2.740,2005-08-23
+16,"Mario Kart DS",DS,Nintendo,"Nintendo EAD",9.1,23.260,9.710,7.510,4.130,1.910,2005-11-14
+17,"Pokémon Gold / Silver Version",GB,Nintendo,"Game Freak",9.2,23.100,9.000,6.180,7.200,0.710,2000-10-14
+18,"Super Mario Odyssey",NS,Nintendo,"Nintendo EPD",9.9,11.710,5.100,3.750,2.020,0.840,2017-10-27
+19,"Wii Fit",Wii,Nintendo,"Nintendo EAD",7.9,22.700,8.920,8.030,3.600,2.150,2008-05-21
+20,"Wii Fit Plus",Wii,Nintendo,"Nintendo EAD",8.0,21.810,9.010,8.510,2.530,1.760,2009-10-04
+21,"Super Mario World",SNES,Nintendo,"Nintendo EAD",8.5,20.610,12.780,3.750,3.540,0.550,1991-08-13
+22,"Grand Theft Auto V",PS3,"Rockstar Games","Rockstar North",9.4,20.320,6.370,9.850,0.990,3.120,2013-09-17
+23,"Marvel's Spider-Man",PS4,"Sony Interactive Entertainment","Insomniac Games",9.1,8.760,3.640,3.390,0.320,1.410,2018-09-07
+24,"God of War (2018)",PC,"Sony Interactive Entertainment","SIE Santa Monica Studio",9.7,6.150,2.830,2.170,0.130,1.020,2018-04-20
+25,"Grand Theft Auto V",PS4,"Rockstar Games","Rockstar North",9.7,19.390,6.060,9.710,0.600,3.020,2014-11-18
+26,"Brain Age: Train Your Brain in Minutes a Day",DS,Nintendo,"Nintendo SDD",8.1,20.160,4.740,9.210,4.160,2.040,2006-04-17
+27,"Mario Kart 7",3DS,Nintendo,"Nintendo EAD / Retro Studios",8.2,15.490,6.030,5.350,3.000,1.110,2011-12-04
+28,"Super Mario Land",GB,Nintendo,"Nintendo R&D1",0.0,18.140,10.830,2.710,4.180,0.420,1989-08-01
+29,"Pokémon Diamond / Pearl Version",DS,Nintendo,"Game Freak",8.6,18.250,6.380,4.470,6.040,1.360,2007-04-28
+30,"Super Mario Party",NS,Nintendo,"Nd Cube Co., Ltd.",7.3,4.970,2.120,1.640,0.850,0.360,2018-10-05
+31,"Grand Theft Auto: San Andreas",PS2,"Rockstar Games","Rockstar North",9.5,20.810,9.430,0.400,0.410,10.570,2004-10-26
+32,"Super Mario Bros. 3",NES,Nintendo,"Nintendo R&D2",0.0,17.280,9.540,3.440,3.840,0.460,1990-02-12
+33,"Pokémon X/Y",3DS,Nintendo,"Game Freak",8.9,16.130,5.680,5.060,4.400,0.990,2013-10-12
+34,"Pokémon Sun/Moon",3DS,Nintendo,"Game Freak",9.0,15.170,6.020,4.340,3.820,0.990,2016-11-18
+35,"Uncharted 4: A Thief's End",PS4,"Sony Interactive Entertainment","Naughty Dog",9.2,10.330,4.490,3.930,0.210,1.700,2016-05-10
+36,"Pokémon Ruby / Sapphire Version",GBA,Nintendo,"Game Freak",8.8,15.850,6.060,3.900,5.380,0.500,2003-03-17
+37,"Grand Theft Auto: Vice City",PS2,"Rockstar Games","Rockstar North",9.6,16.150,8.410,5.490,0.470,1.780,2002-10-28
+38,"Grand Theft Auto V",X360,"Rockstar Games","Rockstar North",0.0,15.860,9.060,5.330,0.060,1.420,2013-09-17
+39,"Pokémon Black / White Version",DS,Nintendo,"Game Freak",8.6,15.180,5.510,3.200,5.660,0.800,2011-03-06
+40,"Call of Duty: Black Ops 3",PS4,Activision,Treyarch,0.0,15.090,6.180,6.050,0.410,2.440,2015-11-06
+41,"Sonic the Hedgehog",GEN,Sega,"Sonic Team",0.0,4.340,3.030,0.910,0.260,0.130,1991-06-23
+42,"Gran Turismo 3: A-Spec",PS2,"Sony Computer Entertainment","Polyphony Digital",9.3,14.980,6.850,5.090,1.870,1.160,2001-07-09
+43,"Brain Age 2: More Training in Minutes a Day",DS,Nintendo,"Nintendo SDD",8.0,15.290,3.430,5.360,5.320,1.180,2007-08-20
+44,"Call of Duty: Modern Warfare 3",X360,Activision,"Infinity Ward",8.7,14.820,9.070,4.290,0.130,1.330,2011-11-08
+45,"Call of Duty: Black Ops",X360,Activision,Treyarch,8.8,14.740,9.760,3.730,0.110,1.140,2010-11-09
+46,"Pokémon Yellow: Special Pikachu Edition",GB,Nintendo,"Game Freak",8.7,14.640,5.890,5.040,3.120,0.590,1999-10-19
+47,"Halo 3",X360,"Microsoft Game Studios","Bungie Studios",9.6,12.130,7.970,2.810,0.130,1.210,2007-09-25
+48,"Pokémon Omega Ruby/Pokémon Alpha Sapphire",3DS,Nintendo,"Game Freak",0.0,12.730,4.780,3.980,3.150,0.820,2014-11-21
+49,"Red Dead Redemption 2",PS4,"Rockstar Games","Rockstar Games",9.8,13.940,5.260,6.210,0.210,2.260,2018-10-26
+50,"Call of Duty: Black Ops II",X360,Activision,Treyarch,0.0,13.860,8.270,4.320,0.070,1.200,2012-11-13
+51,"Call of Duty: Black Ops II",PS3,Activision,Treyarch,0.0,13.800,4.990,5.880,0.650,2.280,2012-11-13
+52,"Call of Duty: Modern Warfare 2",X360,Activision,"Infinity Ward",9.5,13.530,8.540,3.630,0.080,1.280,2009-11-10
+53,"Call of Duty: WWII",PS4,Activision,"Sledgehammer Games",8.0,13.400,4.670,6.210,0.400,2.120,2017-11-03
+54,"New Super Mario Bros. 2",3DS,Nintendo,Nintendo,7.5,11.330,3.950,4.070,2.590,0.720,2012-08-19
+55,"Call of Duty: Modern Warfare 3",PS3,Activision,"Infinity Ward",8.8,13.350,5.540,5.780,0.490,1.540,2011-11-08
+56,"Super Smash Bros. Brawl",Wii,Nintendo,"Project Sora",9.2,12.910,6.640,2.570,2.670,1.030,2008-03-09
+57,"Grand Theft Auto III",PS2,"Rockstar Games","DMA Design",9.5,13.100,6.990,4.510,0.300,1.300,2001-10-23
+58,Minecraft,X360,"Microsoft Studios",Mojang,0.0,9.820,5.960,2.940,0.020,0.900,2013-06-04
+59,"Animal Crossing: New Leaf",3DS,Nintendo,"Nintendo EAD",8.6,10.900,2.460,3.060,4.900,0.480,2013-06-09
+60,"Super Mario 3D Land",3DS,Nintendo,"Nintendo EAD Tokyo",8.9,11.560,5.100,3.460,2.150,0.850,2011-11-13
+61,"Super Mario Galaxy",Wii,Nintendo,"Nintendo EAD Tokyo",9.7,11.400,6.060,3.380,1.200,0.760,2007-11-12
+62,"Pokémon Heart Gold / Soul Silver Version",DS,Nintendo,"Game Freak",8.6,11.780,4.340,2.720,3.960,0.760,2010-03-14
+63,"Splatoon 2",NS,Nintendo,"Nintendo EPD",8.2,7.040,1.900,1.800,3.010,0.340,2017-07-21
+64,"Call of Duty: Black Ops",PS3,Activision,Treyarch,8.7,12.670,6.010,4.400,0.480,1.780,2010-11-09
+65,"Grand Theft Auto V",PC,"Rockstar Games","Rockstar North",0.0,1.330,0.480,0.760,0.000,0.100,2015-04-14
+66,"The Witcher 3: Wild Hunt",PS4,"Warner Bros. Interactive Entertainment","CD Projekt Red Studio",0.0,5.390,1.480,2.820,0.280,0.810,2015-05-19
+67,"Diablo III",PC,"Blizzard Entertainment","Blizzard Entertainment",9.0,5.260,2.500,2.230,0.000,0.530,2012-05-15
+68,"Half-Life 2",PC,"VU Games","Valve Software",9.7,2.370,2.280,0.020,0.080,0.000,2004-11-16
+69,"Pokémon FireRed / LeafGreen Version",GBA,Nintendo,"Game Freak",8.3,10.490,4.340,2.650,3.150,0.350,2004-09-07
+70,"World of Warcraft",PC,"Blizzard Entertainment","Blizzard Entertainment",9.2,6.350,0.120,6.240,0.000,0.000,2004-11-23
+71,"Gran Turismo 5",PS3,"Sony Computer Entertainment","Polyphony Digital",8.3,10.750,2.960,4.870,0.810,2.100,2010-11-24
+72,"Super Mario 64",N64,Nintendo,"Nintendo EAD",9.7,11.890,6.910,2.850,1.910,0.230,1996-09-29
+73,"FIFA 18",PS4,"EA Sports","EA Vancouver",8.3,11.800,1.270,8.640,0.150,1.730,2017-09-29
+74,"The Last of Us Remastered",PS4,"Sony Computer Entertainment","Naughty Dog",9.5,6.770,2.700,2.860,0.110,1.100,2014-07-29
+75,"Gran Turismo 4",PS2,"Sony Computer Entertainment","Polyphony Digital",8.7,11.660,3.010,0.010,1.100,7.530,2005-02-22
+76,"Animal Crossing: Wild World",DS,Nintendo,"Nintendo EAD",8.5,12.140,2.500,3.460,5.330,0.860,2005-12-05
+77,"Super Mario Land 2: 6 Golden Coins",GB,Nintendo,"Nintendo R&D1",9.0,11.180,6.160,2.040,2.690,0.290,1992-11-02
+78,"Grand Theft Auto IV",X360,"Rockstar Games","Rockstar North",10.0,11.090,6.800,3.110,0.140,1.040,2008-04-29
+79,"Super Mario 64 DS",DS,Nintendo,"Nintendo EAD",8.6,1.260,0.010,0.000,1.250,0.000,2004-11-20
+80,"FIFA 17",PS4,"Electronic Arts","EA Canada",8.9,10.940,1.260,7.950,0.120,1.610,2016-09-27
+81,"Gran Turismo",PS,"Sony Computer Entertainment","Polyphony Digital",9.5,10.950,4.020,3.870,2.540,0.520,1998-04-30
+82,"Call of Duty: Modern Warfare 2",PS3,Activision,"Infinity Ward",9.5,10.610,4.990,3.660,0.380,1.590,2009-11-10
+83,"Grand Theft Auto IV",PS3,"Rockstar Games","Rockstar North",10.0,10.570,4.790,3.730,0.440,1.620,2008-04-29
+84,"Super Mario All-Stars",SNES,Nintendo,"Nintendo EAD",0.0,10.550,5.990,2.150,2.120,0.290,1993-08-01
+85,"Call of Duty: Ghosts",X360,Activision,"Infinity Ward",6.9,10.410,6.760,2.640,0.040,0.980,2013-11-05
+86,"Just Dance 3",Wii,Ubisoft,"Ubisoft Paris",7.5,10.140,5.950,3.130,0.000,1.060,2011-10-07
+87,"Call of Duty: Ghosts",PS3,Activision,"Infinity Ward",7.5,10.130,4.110,4.010,0.390,1.620,2013-11-05
+88,"Horizon: Zero Dawn",PS4,"Sony Interactive Entertainment","Guerrilla Games",9.1,5.820,2.200,2.430,0.280,0.920,2017-02-28
+89,"Halo: Reach",X360,"Microsoft Game Studios",Bungie,9.3,9.970,7.080,2.010,0.080,0.800,2010-09-14
+90,"Halo 4",X360,"Microsoft Studios","343 Industries",0.0,9.960,6.720,2.360,0.040,0.830,2012-11-06
+91,"Final Fantasy VII",PS,"Sony Computer Entertainment",SquareSoft,9.6,9.720,3.010,2.470,3.280,0.960,1997-09-03
+92,"Mario Kart 64",N64,Nintendo,"Nintendo EAD",8.5,9.870,5.550,1.940,2.230,0.150,1997-02-10
+93,"Super Smash Bros. for 3DS",3DS,Nintendo,"Bandai Namco Games",8.4,8.320,3.730,1.500,2.550,0.540,2014-10-03
+94,"Call of Duty 4: Modern Warfare",X360,Activision,"Infinity Ward",9.6,9.410,5.980,2.390,0.130,0.910,2007-11-05
+95,"Gran Turismo 2",PS,"Sony Computer Entertainment","Polyphony Digital",9.2,9.490,3.880,3.420,1.690,0.500,1999-01-17
+96,"Wii Party",Wii,Nintendo,"Nd Cube Co., Ltd.",7.0,8.410,1.750,3.510,2.490,0.660,2010-10-03
+97,"Call of Duty: Black Ops IIII",PS4,Activision,Treyarch,0.0,9.320,4.050,3.280,0.500,1.490,2018-10-12
+98,"Mario Party DS",DS,Nintendo,"Hudson Soft",7.1,8.930,4.400,1.860,1.980,0.690,2007-11-19
+99,"Donkey Kong Country",SNES,Nintendo,"Rare Ltd.",9.0,9.300,4.360,1.710,3.000,0.230,1994-11-21
+100,Half-Life,PC,"Sierra Entertainment","Valve Software",9.5,4.120,4.030,0.000,0.090,0.000,1998-11-19
+101,"Uncharted 3: Drake's Deception",PS3,"Sony Computer Entertainment","Naughty Dog",9.3,6.840,2.770,2.810,0.190,1.060,2011-11-01
+102,"FIFA 19",PS4,"Electronic Arts","EA Sports",0.0,9.150,0.840,6.870,0.100,1.340,2018-09-28
+103,"Pokémon: Ultra Sun and Ultra Moon",3DS,Nintendo,"Game Freak",8.1,7.150,2.460,1.740,2.550,0.400,2017-11-17
+104,"The Elder Scrolls V: Skyrim",X360,"Bethesda Softworks","Bethesda Game Studios",9.3,8.880,5.100,2.830,0.100,0.850,2011-11-11
+105,"Mario Party 8",Wii,Nintendo,"Hudson Soft",6.5,8.300,3.740,2.270,1.580,0.700,2007-05-29
+106,"Super Mario Kart",SNES,Nintendo,"Nintendo EAD",10.0,8.760,3.540,1.240,3.810,0.180,1992-09-01
+107,"Grand Theft Auto V",XOne,"Rockstar Games","Rockstar North",9.0,8.720,4.700,3.250,0.010,0.760,2014-11-18
+108,"Final Fantasy VIII",PS,"Square EA",SquareSoft,9.4,7.860,2.280,1.720,3.630,0.230,1999-09-07
+109,"Final Fantasy X",PS2,Square,SquareSoft,9.0,8.050,2.910,2.070,2.730,0.330,2001-12-17
+110,"Pokémon Black 2 and White 2",DS,Nintendo,"Game Freak",8.0,8.160,2.790,1.790,3.160,0.430,2012-10-07
+111,"Call of Duty: Infinite Warfare",PS4,Activision,"Infinity Ward",0.0,8.480,3.110,3.830,0.190,1.360,2016-11-04
+112,"Fallout 4",PS4,"Bethesda Softworks","Bethesda Game Studios",8.6,8.480,2.910,3.970,0.270,1.340,2015-11-10
+113,"Mario Kart 8",WiiU,Nintendo,Nintendo,8.8,7.690,3.220,2.550,1.390,0.540,2014-05-30
+114,"Tekken 3",PS,Namco,Namco,9.6,7.160,3.270,2.220,1.400,0.290,1998-04-29
+115,"FIFA 16",PS4,"EA Sports","EA Canada",8.5,8.220,1.150,5.770,0.070,1.230,2015-09-22
+116,"The Last of Us",PS3,"Sony Computer Entertainment America","Naughty Dog",9.5,6.270,2.410,2.570,0.290,0.990,2013-06-14
+117,"GoldenEye 007",N64,Nintendo,"Rare Ltd.",9.8,8.090,5.800,2.010,0.130,0.150,1997-08-25
+118,"Star Wars Battlefront (2015)",PS4,"Electronic Arts","EA DICE",7.1,8.030,3.310,3.190,0.230,1.300,2015-11-17
+119,"FIFA 13",PS3,"EA Sports","EA Canada",0.0,8.010,1.070,5.130,0.130,1.680,2012-09-25
+120,"Halo 2",XB,"Microsoft Game Studios","Bungie Studios",9.6,8.490,6.820,1.530,0.050,0.080,2004-11-09
+121,"Harry Potter and the Sorcerer's Stone",PS,"Electronic Arts","Argonaut Games",8.0,3.730,1.370,2.000,0.140,0.220,2001-11-15
+122,"Sid Meier's Civilization V",PC,"2K Games","Firaxis Games",8.9,1.700,1.000,0.530,0.000,0.170,2010-09-21
+123,"The Sims 3",PC,"Electronic Arts","EA Redwood Shores",8.5,7.960,1.010,6.460,0.000,0.500,2009-06-02
+124,"Grand Theft Auto: Liberty City Stories",PSP,"Rockstar Games","Rockstar Leeds",8.8,7.720,2.900,2.830,0.240,1.740,2005-10-25
+125,Pac-Man,2600,Atari,Atari,0.0,7.810,7.280,0.450,0.000,0.080,1982-03-01
+126,"God of War III",PS3,"Sony Computer Entertainment","SCEA Santa Monica Studio",9.2,4.810,2.740,1.360,0.120,0.600,2010-03-16
+127,"Pokémon Platinum Version",DS,Nintendo,"Game Freak",8.3,7.720,2.760,1.730,2.690,0.540,2009-03-22
+128,"The Legend of Zelda: Ocarina of Time",N64,Nintendo,"Nintendo EAD",9.9,7.600,4.100,1.890,1.450,0.160,1998-11-23
+129,"Call of Duty: Advanced Warfare",PS4,Activision,"Sledgehammer Games",8.5,7.530,2.840,3.340,0.140,1.220,2014-11-04
+130,"Call of Duty: World at War",X360,Activision,Treyarch,8.5,7.500,4.880,1.910,0.000,0.710,2008-11-10
+131,"Super Mario Bros. 2",NES,Nintendo,"Nintendo EAD",0.0,7.460,5.390,1.180,0.700,0.190,1988-10-01
+132,"Super Mario Galaxy 2",Wii,Nintendo,"Nintendo EAD Tokyo",9.7,7.570,3.590,2.370,0.980,0.620,2010-05-23
+133,"Super Smash Bros. Melee",GC,Nintendo,"HAL Laboratory",9.2,7.070,4.410,1.040,1.390,0.220,2001-12-02
+134,"Call of Duty: Black Ops 3",XOne,Activision,Treyarch,0.0,7.370,4.630,2.040,0.020,0.680,2015-11-06
+135,"Battlefield 3",X360,"Electronic Arts",Dice,8.5,7.350,4.470,2.120,0.060,0.690,2011-10-25
+136,"Yokai Watch 2: Bony Spirits / Fleshy Souls / Psychic Specters",3DS,Nintendo,"Level 5",0.0,3.650,0.220,0.200,3.190,0.040,2016-09-30
+137,"The Legend of Zelda: Twilight Princess",Wii,Nintendo,"Nintendo EAD",9.5,7.180,3.740,2.160,0.600,0.690,2006-11-19
+138,"Battlefield 1",PS4,"Electronic Arts","EA DICE",9.1,7.260,2.200,3.650,0.290,1.120,2016-10-21
+139,"Battlefield 3",PS3,"Electronic Arts",Dice,8.5,7.210,2.860,2.940,0.350,1.070,2011-10-25
+140,"Need for Speed Underground",PS2,"Electronic Arts","EA Black Box",8.6,7.200,3.270,2.830,0.080,1.020,2003-11-17
+141,"Pokémon Emerald Version",GBA,Nintendo,"Game Freak",7.7,6.410,2.570,1.580,2.060,0.210,2005-04-30
+142,"Guild Wars 2",PC,NCSoft,ArenaNet,0.0,2.370,1.010,1.110,0.000,0.250,2012-08-28
+143,"Metal Gear Solid 2: Sons of Liberty",PS2,Konami,"Konami Computer Entertainment Japan",9.5,6.050,2.450,2.010,0.870,0.720,2001-11-12
+144,"Need for Speed Underground 2",PS2,"Electronic Arts","EA Black Box",8.3,6.900,2.710,3.020,0.080,1.090,2004-11-15
+145,"Just Dance 4",Wii,Ubisoft,Ubisoft,0.0,6.890,4.050,2.210,0.000,0.620,2012-10-09
+146,"Mario Kart: Double Dash!!",GC,Nintendo,"Nintendo EAD",8.5,6.950,4.120,1.770,0.870,0.190,2003-11-17
+147,"Medal of Honor: Frontline",PS2,"Electronic Arts","EA Los Angeles",9.0,6.830,2.930,2.750,0.170,0.990,2002-05-28
+148,"Crash Bandicoot",PS,"Sony Computer Entertainment","Naughty Dog",7.8,6.820,3.230,2.350,0.940,0.300,1996-09-01
+149,"Uncharted 2: Among Thieves",PS3,"Sony Computer Entertainment","Naughty Dog",9.5,6.740,3.280,2.220,0.210,1.020,2009-10-13
+150,"Call of Duty 4: Modern Warfare",PS3,Activision,"Infinity Ward",9.5,6.720,3.130,2.270,0.280,1.040,2007-11-05
+151,"Tomodachi Life",3DS,Nintendo,Nintendo,7.8,5.880,0.970,2.640,1.980,0.280,2014-06-06
+152,"FIFA Soccer 12",PS3,"EA Sports","EA Canada",9.2,6.650,0.840,4.330,0.110,1.370,2011-09-27
+153,"FIFA 14",PS3,"EA Sports","EA Canada",0.0,6.610,0.790,4.770,0.070,0.980,2013-09-24
+154,"Fallout 4",PC,"Bethesda Softworks","Bethesda Game Studios",9.0,1.400,0.570,0.720,0.000,0.110,2015-11-10
+155,"Red Dead Redemption",PS3,"Rockstar Games","Rockstar San Diego",9.5,6.570,2.820,2.580,0.170,1.000,2011-10-11
+156,"Donkey Kong Country Returns",Wii,Nintendo,"Retro Studios",8.6,6.500,3.190,1.810,1.030,0.470,2010-11-21
+157,"The Legend of Zelda",NES,Nintendo,"Nintendo EAD",9.0,6.510,3.740,0.930,1.690,0.140,1987-08-22
+158,"Assassin's Creed III",PS3,Ubisoft,"Ubisoft Montreal",8.8,6.500,2.650,2.610,0.160,1.080,2012-10-30
+159,"Red Dead Redemption",X360,"Rockstar Games","Rockstar San Diego",9.5,6.500,3.770,2.030,0.090,0.600,2010-05-18
+160,"The Elder Scrolls V: Skyrim",PS3,"Bethesda Softworks","Bethesda Game Studios",9.0,6.490,2.570,2.680,0.250,0.990,2011-11-11
+161,"Final Fantasy XII",PS2,"Square Enix","Square Enix",9.4,5.950,1.880,0.000,2.330,1.740,2006-10-31
+162,"Pokémon Crystal Version",GBC,Nintendo,"Game Freak",8.7,6.390,2.550,1.560,1.290,0.990,2001-07-29
+163,Minecraft,PS4,"Sony Computer Entertainment",Mojang,9.4,6.330,1.890,3.130,0.350,0.960,2014-10-07
+164,"Luigi's Mansion: Dark Moon",3DS,Nintendo,"Next Level Games",8.6,5.440,2.030,1.880,1.170,0.360,2013-03-24
+165,"FIFA 15",PS4,"EA Sports","EA Canada",8.1,6.320,0.830,4.490,0.050,0.940,2014-09-23
+166,"Kingdom Hearts",PS2,"Square EA",SquareSoft,8.5,6.400,3.640,1.200,1.490,0.070,2002-09-16
+167,Myst,PC,Broderbund,"Cyan Worlds",8.9,2.810,0.020,2.790,0.000,0.000,1995-01-01
+168,"Street Fighter II: The World Warrior",SNES,Capcom,Capcom,0.0,6.300,2.470,0.830,2.870,0.120,1992-07-01
+169,Driver,PS,"GT Interactive","Reflections Interactive",8.5,6.270,3.110,2.800,0.020,0.330,1999-06-30
+170,"Call of Duty: WWII",XOne,Activision,"Sledgehammer Games",0.0,6.230,3.750,1.910,0.000,0.570,2017-11-03
+171,"The Legend of Zelda: Ocarina of Time 3D",3DS,Nintendo,GREZZO,9.3,2.000,1.420,0.010,0.560,0.000,2011-06-19
+172,"Big Brain Academy",DS,Nintendo,"Nintendo EAD",7.7,6.630,1.660,2.750,1.600,0.620,2006-06-05
+173,Minecraft,PS3,"Sony Computer Entertainment America",Mojang,0.0,6.050,2.210,2.860,0.000,0.990,2014-05-16
+174,"Metal Gear Solid",PS,Konami,"Konami Computer Entertainment Japan",9.3,6.030,3.180,1.830,0.780,0.240,1998-10-21
+175,"Metal Gear Solid 4: Guns of the Patriots",PS3,Konami,"Kojima Productions",9.3,6.000,2.630,1.720,0.830,0.810,2008-06-12
+176,"Sonic the Hedgehog 2",GEN,Sega,"Sonic Team",0.0,6.030,4.470,1.200,0.160,0.190,1992-11-20
+177,"StarCraft II: Wings of Liberty",PC,"Blizzard Entertainment","Blizzard Entertainment",9.3,4.860,2.600,1.700,0.000,0.560,2010-07-27
+178,"Tekken 5",PS2,Namco,Namco,9.0,3.870,0.930,1.940,0.310,0.700,2005-02-24
+179,"Mario Kart: Super Circuit",GBA,Nintendo,"Intelligent Systems",9.3,5.470,2.620,1.640,0.990,0.230,2001-08-26
+180,"Super Mario Sunshine",GC,Nintendo,"Nintendo EAD",9.2,6.310,4.010,1.260,0.870,0.170,2002-08-25
+181,"Super Mario 3D World",WiiU,Nintendo,"Nintendo EAD Tokyo",9.5,5.010,2.310,1.540,0.790,0.370,2013-11-22
+182,"New Super Mario Bros. U",WiiU,Nintendo,"Nintendo EAD",8.4,5.620,2.300,1.630,1.320,0.380,2012-11-18
+183,"Link's Crossbow Training",Wii,Nintendo,"Nintendo EAD",6.9,4.980,3.050,1.170,0.290,0.460,2007-11-19
+184,"Red Dead Redemption 2",XOne,"Rockstar Games","Rockstar Games",0.0,5.770,3.760,1.470,0.000,0.540,2018-10-26
+185,Destiny,PS4,Activision,Bungie,0.0,5.760,2.530,2.130,0.160,0.940,2014-09-09
+186,"Tekken 2",PS,Namco,Namco,9.1,5.740,2.260,1.890,1.360,0.230,1996-08-25
+187,"Crash Bandicoot 3: Warped",PS,"Sony Computer Entertainment","Naughty Dog",9.3,7.130,3.680,1.750,1.420,0.280,1998-10-31
+188,"Uncharted: The Nathan Drake Collection",PS4,"Sony Computer Entertainment","Bluepoint Games",0.0,5.700,2.550,2.110,0.100,0.940,2015-10-07
+189,"Super Mario World: Super Mario Advance 2",GBA,Nintendo,"Nintendo EAD",9.4,5.460,3.210,1.110,0.950,0.200,2002-02-09
+190,"LEGO Star Wars: The Complete Saga",Wii,LucasArts,"Traveller's Tales",8.0,5.660,3.570,1.570,0.000,0.520,2007-11-06
+191,"Cooking Mama",DS,Majesco,"Office Create",6.6,5.660,3.090,1.920,0.070,0.580,2006-09-12
+192,Tetris,NES,Nintendo,Nintendo,0.0,5.580,2.970,0.690,1.810,0.110,1989-11-01
+193,"Super Mario Advance",GBA,Nintendo,"Nintendo EAD",8.2,5.490,3.140,1.240,0.910,0.200,2001-06-10
+194,"Assassin's Creed II",PS3,Ubisoft,"Ubisoft Montreal",9.0,5.570,2.540,1.950,0.210,0.860,2009-11-17
+195,"Super Smash Bros.",N64,Nintendo,"HAL Laboratory",8.4,5.550,2.950,0.600,1.970,0.040,1999-04-26
+196,"Assassin's Creed",X360,Ubisoft,"Ubisoft Montreal",8.2,5.550,3.280,1.640,0.070,0.560,2007-11-13
+197,"Batman: Arkham City",PS3,"Warner Bros. Interactive","Rocksteady Studios",9.6,5.540,2.720,1.890,0.110,0.820,2011-10-18
+198,"Forza Motorsport 3",X360,"Microsoft Game Studios","Turn 10 Studios",9.2,5.500,2.990,1.900,0.100,0.510,2009-10-27
+199,"Dragon Quest IX: Sentinels of the Starry Skies",DS,Nintendo,"Level 5",8.6,5.790,0.630,0.670,4.350,0.150,2010-07-11
+200,"Final Fantasy IX",PS,Square,SquareSoft,9.2,5.300,1.620,0.770,2.780,0.140,2000-11-13
+201,"Final Fantasy X-2",PS2,"Square Enix","Square Enix",8.3,5.290,1.920,1.080,2.110,0.170,2003-11-18
+202,"Pokémon Stadium",N64,Nintendo,"HAL Laboratory",7.5,5.450,3.180,1.240,0.940,0.090,2000-03-06
+203,Minecraft,XOne,"Microsoft Studios",Mojang,0.0,5.430,3.230,1.710,0.000,0.490,2014-11-18
+204,"Call of Duty: World at War",PS3,Activision,Treyarch,8.4,5.430,2.750,1.840,0.000,0.840,2008-11-10
+205,"Super Mario Advance 4: Super Mario Bros. 3",GBA,Nintendo,"Nintendo EAD",9.2,5.200,2.930,1.250,0.830,0.200,2003-10-21
+206,"Crash Bandicoot: The Wrath of Cortex",PS2,"Universal Interactive","Traveller's Tales",6.9,5.420,2.070,2.290,0.240,0.820,2001-10-29
+207,"Super Smash Bros. for Wii U",WiiU,Nintendo,"Bandai Namco Games",9.2,5.070,2.680,1.150,0.850,0.390,2014-11-21
+208,"Final Fantasy XIII",PS3,"Square Enix","Square Enix",8.0,5.350,1.750,1.230,1.870,0.510,2010-03-09
+209,"Gran Turismo 5 Prologue",PS3,"Sony Computer Entertainment","Polyphony Digital",8.3,4.200,1.280,1.830,0.570,0.520,2008-04-15
+210,"Dr. Mario",GB,Nintendo,"Nintendo R&D1",0.0,5.340,2.180,0.960,2.000,0.200,1990-12-01
+211,"Assassin's Creed III",X360,Ubisoft,"Ubisoft Montreal",0.0,5.310,3.130,1.710,0.030,0.450,2012-10-30
+212,"Pokémon Pinball",GBC,Nintendo,"Jupiter Corporation",8.7,5.310,3.020,1.120,1.010,0.160,1999-07-31
+213,"Assassin's Creed II",X360,Ubisoft,"Ubisoft Montreal",9.1,5.300,3.140,1.550,0.080,0.520,2009-11-17
+214,"Donkey Kong 64",N64,Nintendo,"Rare Ltd.",9.3,5.270,3.330,0.790,1.090,0.060,1999-11-22
+215,"Just Dance 2",Wii,Ubisoft,"Ubisoft Paris",7.3,9.450,5.800,2.860,0.010,0.770,2010-10-12
+216,"Tomb Raider II",PS,"Eidos Interactive","Core Design Ltd.",7.6,5.240,2.300,2.460,0.200,0.280,1997-10-31
+217,"Madden NFL 2004",PS2,"EA Sports","EA Tiburon",9.5,5.230,4.260,0.260,0.010,0.710,2003-08-12
+218,"Call of Duty: Advanced Warfare",XOne,Activision,"Sledgehammer Games",8.3,5.220,3.250,1.490,0.010,0.480,2014-11-04
+219,"Fallout: New Vegas",PC,"Bethesda Softworks","Obsidian Entertainment",8.3,1.170,0.590,0.450,0.000,0.130,2010-10-19
+220,"Gran Turismo 6",PS3,"Sony Computer Entertainment America","Polyphony Digital",0.0,3.540,0.770,1.870,0.410,0.490,2013-12-06
+221,"Kingdom Hearts II",PS2,"Square Enix","Square Enix",8.3,4.330,2.200,0.580,1.380,0.170,2006-03-28
+222,"Nintendo Land",WiiU,Nintendo,Nintendo,7.5,4.630,2.520,1.230,0.510,0.380,2012-11-18
+223,"Super Mario Land 3: Wario Land",GB,Nintendo,"Nintendo R&D1",7.9,5.190,2.490,0.980,1.570,0.150,1994-02-09
+224,"Donkey Kong Country 2: Diddy's Kong Quest",SNES,Nintendo,"Rare Ltd.",9.3,5.150,2.100,0.740,2.200,0.110,1995-11-20
+225,"Medal of Honor: Rising Sun",PS2,"Electronic Arts","EA Los Angeles",5.9,5.130,1.980,2.230,0.130,0.800,2003-11-11
+226,"Battlefield 1",XOne,"Electronic Arts","EA DICE",9.3,5.130,3.370,1.260,0.020,0.480,2016-10-21
+227,"Kirby's Dream Land",GB,Nintendo,"HAL Laboratory",0.0,5.130,2.710,0.610,1.700,0.110,1992-08-01
+228,"Microsoft Flight Simulator",PC,Microsoft,Microsoft,7.0,5.120,3.220,1.690,0.000,0.200,1996-10-31
+229,"Guitar Hero II",PS2,RedOctane,"Harmonix Music Systems",9.2,5.120,3.810,0.630,0.000,0.680,2006-11-07
+230,"FIFA 13",X360,"EA Sports","EA Canada",0.0,5.110,1.100,3.490,0.030,0.500,2012-09-25
+231,"Resident Evil 5",PS3,Capcom,Capcom,8.6,5.100,1.960,1.420,1.080,0.640,2009-03-13
+232,"Fable III",X360,"Microsoft Game Studios","Lionhead Studios",7.8,5.100,3.590,1.090,0.050,0.370,2010-10-26
+233,"Mario & Sonic at the Olympic Games",DS,Sega,Sega,7.0,5.100,1.630,2.460,0.440,0.570,2008-01-22
+234,"Grand Theft Auto: Vice City Stories",PSP,"Rockstar Games","Rockstar Leeds",8.4,5.080,1.700,2.030,0.160,1.190,2006-10-31
+235,"FIFA Soccer 11",PS3,"EA Sports","EA Canada",8.7,5.080,0.610,3.280,0.060,1.120,2010-09-28
+236,"Super Mario Bros. Deluxe",GB,Nintendo,"Nintendo EAD",9.7,5.070,3.400,1.300,0.150,0.220,1999-04-30
+237,"Final Fantasy XV",PS4,"Square Enix","Square Enix",8.1,5.070,1.810,1.530,1.050,0.680,2016-11-29
+238,"Fallout 4",XOne,"Bethesda Softworks","Bethesda Game Studios",8.4,5.030,2.940,1.620,0.020,0.450,2015-11-10
+239,"Tony Hawk's Pro Skater",PS,Activision,"Neversoft Entertainment",9.6,5.020,3.420,1.380,0.020,0.200,1999-08-31
+240,"Warzone 2100",PS,"Eidos Interactive","Pumpkin Studios",0.0,5.010,2.790,1.890,0.000,0.330,1999-05-31
+241,"Gears of War",X360,"Microsoft Game Studios","Epic Games",9.4,6.090,3.540,1.880,0.070,0.600,2006-11-07
+242,"Gears of War 2",X360,"Microsoft Game Studios","Epic Games",9.4,6.750,4.150,1.910,0.060,0.640,2008-11-07
+243,"Halo 5: Guardians",XOne,"Microsoft Studios","343 Industries",8.6,4.920,2.940,1.490,0.030,0.450,2015-10-27
+244,"Halo: Combat Evolved",XB,Microsoft,"Bungie Studios",9.5,6.430,4.980,1.300,0.080,0.070,2001-11-14
+245,"Guitar Hero III: Legends of Rock",PS2,RedOctane,"BudCat Creations",8.2,4.980,3.490,0.010,0.010,1.480,2007-10-28
+246,"Uncharted: Drake's Fortune",PS3,"Sony Computer Entertainment","Naughty Dog",8.7,4.970,2.320,1.730,0.120,0.800,2007-11-16
+247,"Resident Evil 2",PS,Capcom,Capcom,9.3,5.820,1.880,1.470,2.020,0.450,1998-01-21
+248,"Fallout 3",X360,"Bethesda Softworks","Bethesda Game Studios",9.0,4.960,3.410,0.990,0.090,0.460,2008-10-28
+249,Splatoon,WiiU,Nintendo,"Nintendo EAD",8.4,4.710,1.580,1.300,1.560,0.270,2015-05-29
+250,"Madden NFL 06",PS2,"EA Sports","EA Tiburon",9.1,4.910,3.980,0.260,0.010,0.660,2005-08-08
+251,"Dragon Quest VIII: Journey of the Cursed King",PS2,"Square Enix","Level 5 / Armor Project",8.6,5.210,0.650,0.750,3.610,0.200,2005-11-15
+252,"Monster Hunter Freedom 3",PSP,Capcom,Capcom,0.0,4.870,0.000,0.000,4.870,0.000,2010-12-01
+253,"Diddy Kong Racing",N64,Nintendo,"Rare Ltd.",8.3,4.880,2.910,0.990,0.890,0.100,1997-11-24
+254,"Pokémon Mystery Dungeon: Explorers of Time / Darkness",DS,Nintendo,ChunSoft,6.4,4.940,1.830,1.190,1.540,0.370,2008-04-20
+255,"Call of Duty: Black Ops IIII",XOne,Activision,Treyarch,0.0,4.850,3.270,1.120,0.000,0.460,2018-10-12
+256,"Dr. Mario",NES,Nintendo,"Nintendo R&D1",0.0,4.850,2.620,0.600,1.520,0.100,1990-10-01
+257,"Spyro the Dragon",PS,"Sony Computer Entertainment","Insomniac Games",8.7,5.000,3.360,1.360,0.070,0.210,1998-09-10
+258,"Crash Bandicoot N. Sane Trilogy",PS4,Activision,"Vicarious Visions",0.0,4.830,1.090,2.920,0.070,0.740,2017-06-30
+259,"Assassin's Creed",PS3,Ubisoft,"Ubisoft Montreal",8.2,4.830,1.910,2.010,0.090,0.820,2007-11-13
+260,"Call of Duty: Infinite Warfare",XOne,Activision,"Infinity Ward",0.0,4.790,2.910,1.440,0.000,0.440,2016-11-04
+261,"Crash Team Racing",PS,"Sony Computer Entertainment","Naughty Dog",9.2,4.790,2.570,1.570,0.440,0.210,1999-09-30
+262,"LEGO Star Wars: The Complete Saga",DS,LucasArts,"Traveller's Tales",7.8,4.770,2.830,1.490,0.000,0.450,2007-11-06
+263,"The Legend of Zelda: Phantom Hourglass",DS,Nintendo,"Nintendo EAD",9.1,5.090,1.850,1.800,0.950,0.480,2007-10-02
+264,"Batman: Arkham City",X360,"Warner Bros. Interactive","Rocksteady Studios",9.5,4.750,2.990,1.280,0.040,0.440,2011-10-18
+265,"Driver 2",PS,Atari,"Reflections Interactive",7.0,4.730,2.360,2.100,0.020,0.250,2000-11-13
+266,"The Simpsons: Hit & Run",PS2,"VU Games","Radical Entertainment",7.7,4.700,1.730,2.190,0.000,0.790,2003-09-16
+267,"The Witcher 3: Wild Hunt",XOne,"Warner Bros. Interactive Entertainment","CD Projekt Red Studio",0.0,1.740,0.970,0.610,0.010,0.150,2015-05-19
+268,"World of Warcraft: Cataclysm",PC,"Blizzard Entertainment","Blizzard Entertainment",9.0,2.090,1.770,0.320,0.000,0.000,2010-12-07
+269,"Tony Hawk's Pro Skater 2",PS,Activision,"Neversoft Entertainment",9.3,4.680,3.050,1.410,0.020,0.200,2000-09-20
+270,"Gran Turismo",PSP,"Sony Computer Entertainment","Polyphony Digital",7.7,2.930,0.430,1.400,0.310,0.780,2009-10-01
+271,"The Lord of the Rings: The Two Towers",PS2,"Electronic Arts","Stormfront Studios",8.3,4.670,1.940,1.950,0.080,0.700,2002-10-21
+272,"Nintendogs + cats",3DS,Nintendo,"Nintendo EAD",7.2,4.150,1.440,1.690,0.730,0.290,2011-03-27
+273,"Tomb Raider",PS,"Eidos Interactive","Core Design Ltd.",8.9,4.630,2.290,1.970,0.130,0.240,1996-11-14
+274,"God of War",PS2,"Sony Computer Entertainment","SCEA Santa Monica Studio",9.3,4.450,2.710,1.290,0.020,0.430,2005-03-22
+275,"The Legend of Zelda: A Link to the Past",SNES,Nintendo,"Nintendo EAD",10.0,4.610,2.420,0.910,1.150,0.130,1992-04-13
+276,"Forza Motorsport 4",X360,"Microsoft Studios","Turn 10 Studio",9.1,4.600,2.080,1.980,0.060,0.490,2011-10-11
+277,"Guitar Hero III: Legends of Rock",Wii,RedOctane,"Vicarious Visions",8.6,4.600,3.040,1.120,0.000,0.440,2007-10-28
+278,"Mario & Luigi: Bowser's Inside Story",DS,Nintendo,"AlphaDream Corporation",9.1,3.770,2.230,0.470,0.810,0.270,2009-09-14
+279,"FIFA 15",PS3,"EA Sports","EA Canada",6.9,4.560,0.590,3.250,0.040,0.680,2014-09-23
+280,"Mario & Sonic at the Olympic Winter Games",Wii,Sega,Sega,6.8,4.540,1.870,1.970,0.220,0.480,2009-10-13
+281,Overwatch,PS4,"Blizzard Entertainment","Blizzard Entertainment",8.8,4.540,1.840,1.800,0.170,0.730,2016-05-24
+282,"Madden NFL 2005",PS2,"EA Sports","EA Tiburon",9.5,4.530,4.180,0.260,0.010,0.080,2004-08-09
+283,"Guitar Hero III: Legends of Rock",X360,RedOctane,Neversoft,8.7,4.530,3.190,0.910,0.010,0.420,2007-10-28
+284,"Star Wars Battlefront II (2017)",PS4,"Electronic Arts","EA DICE",0.0,4.530,1.700,1.990,0.120,0.730,2017-11-17
+285,LittleBigPlanet,PS3,"Sony Computer Entertainment","Media Molecule",9.4,5.850,2.800,2.010,0.170,0.870,2008-10-28
+286,"Riven: The Sequel to Myst",PC,"Red Orb","Cyan Worlds",0.0,2.430,1.520,0.820,0.000,0.100,1997-10-29
+287,"Professor Layton and the Curious Village",DS,Nintendo,"Level 5",8.7,5.200,1.210,2.440,1.030,0.510,2008-02-10
+288,"Spider-Man: The Movie",PS2,Activision,Treyarch,8.2,4.480,2.710,1.510,0.030,0.230,2002-04-15
+289,"The Elder Scrolls IV: Oblivion",X360,"Take-Two Interactive","Bethesda Softworks",9.2,4.470,2.890,1.030,0.130,0.410,2009-07-07
+290,"The Legend of Zelda: The Wind Waker",GC,Nintendo,"Nintendo EAD",9.6,4.600,2.600,0.990,0.890,0.130,2003-03-26
+291,"Tony Hawk's Pro Skater 3",PS2,Activision,"Neversoft Entertainment",9.1,4.410,2.660,1.290,0.010,0.460,2001-10-28
+292,"Winning Eleven: Pro Evolution Soccer 2007",PS2,Konami,"Konami Computer Entertainment Tokyo",8.8,4.390,0.100,2.390,1.050,0.860,2007-02-06
+293,"Zelda II: The Adventure of Link",NES,Nintendo,"Nintendo EAD",0.0,4.380,2.190,0.500,1.610,0.080,1988-09-01
+294,"Michael Jackson: The Experience",Wii,Ubisoft,"Ubisoft Montpellier",5.6,4.370,2.640,1.330,0.010,0.390,2010-11-23
+295,"Tom Clancy's The Division",PS4,Ubisoft,"Massive Entertainment",0.0,4.370,1.490,2.040,0.160,0.690,2016-03-08
+296,"Need for Speed: Most Wanted",PS2,"Electronic Arts","EA Canada",8.6,4.370,2.030,1.790,0.080,0.470,2005-11-15
+297,"Tom Clancy's Rainbow Six: Siege",PS4,Ubisoft,"Ubisoft Montreal",0.0,4.360,1.290,2.060,0.360,0.640,2015-12-01
+298,"Call of Duty: Advanced Warfare",X360,Activision,"High Moon Studios",9.1,4.340,2.810,1.130,0.000,0.410,2014-11-04
+299,"Watch Dogs",PS4,Ubisoft,"Ubisoft Montreal",0.0,4.320,1.400,2.130,0.110,0.680,2014-05-27
+300,"Animal Crossing: City Folk",Wii,Nintendo,"Nintendo EAD",7.1,4.650,1.840,1.130,1.320,0.360,2008-11-16
+301,Asteroids,2600,Atari,Atari,0.0,4.310,4.000,0.260,0.000,0.050,1981-01-01
+302,"Dragon Quest VII",PS,Enix,"Heart Beat",8.0,4.470,0.200,0.140,4.100,0.020,2001-11-01
+303,"Just Dance",Wii,Ubisoft,"Ubisoft Paris",5.4,7.210,3.480,2.990,0.000,0.730,2009-11-17
+304,"Monster Hunter Generations",3DS,Capcom,Capcom,8.8,3.560,0.420,0.260,2.820,0.070,2016-07-15
+305,"Batman: Arkham Asylum",PS3,"Eidos Interactive","Rocksteady Studios",9.0,4.280,2.260,1.330,0.070,0.630,2009-08-25
+306,"Call of Duty: Advanced Warfare",PS3,Activision,"High Moon Studios",9.1,4.270,1.590,1.810,0.200,0.670,2014-11-04
+307,"God of War II",PS2,"Sony Computer Entertainment","SCEA Santa Monica Studio",9.3,4.070,2.320,0.040,0.040,1.670,2007-03-13
+308,"Namco Museum",GBA,Namco,"Mass Media",0.0,4.240,3.000,1.110,0.050,0.070,2001-06-10
+309,"Super Paper Mario",Wii,Nintendo,"Intelligent Systems",8.5,3.730,1.950,0.870,0.590,0.320,2007-04-09
+310,"Assassin's Creed: Revelations",PS3,Ubisoft,"Ubisoft Montreal",8.8,4.230,1.410,2.030,0.100,0.690,2011-11-15
+311,"Assassin's Creed: Revelations",X360,Ubisoft,"Ubisoft Montreal",7.9,4.220,2.280,1.470,0.040,0.440,2011-11-15
+312,"FIFA Soccer 06",PS2,"EA Sports","EA Canada",8.4,4.210,0.780,2.550,0.040,0.840,2005-10-04
+313,"Monster Hunter 4 Ultimate",3DS,Capcom,Capcom,8.8,3.960,0.720,0.490,2.630,0.120,2015-02-13
+314,"Street Fighter IV",PS3,Capcom,"Capcom / Dimps Corporation",9.3,4.190,2.040,1.050,0.590,0.520,2009-02-17
+315,"FIFA Soccer 12",X360,"EA Sports","EA Canada",9.2,4.180,0.850,2.790,0.020,0.520,2011-09-27
+316,"Call of Duty: Ghosts",PS4,Activision,"Infinity Ward",7.5,4.170,1.790,1.640,0.050,0.690,2013-11-15
+317,"Teenage Mutant Ninja Turtles",NES,"Ultra Games",Konami,5.9,4.170,3.380,0.440,0.310,0.040,1989-06-01
+318,Excitebike,NES,Nintendo,"Nintendo R&D1",0.0,4.160,2.040,0.480,1.570,0.070,1985-10-18
+319,"The Legend of Zelda: A Link Between Worlds",3DS,Nintendo,"Nintendo EAD",9.3,3.570,1.530,1.310,0.470,0.260,2013-11-22
+320,Frogger,PS,"Hasbro Interactive","Millenium Interactive",0.0,4.160,3.790,0.270,0.000,0.110,1997-09-30
+321,"Star Wars Battlefront (2015)",XOne,"Electronic Arts","EA DICE",6.9,4.150,2.490,1.260,0.020,0.380,2015-11-17
+322,"FIFA 14",X360,"EA Sports","EA Canada",0.0,4.150,0.940,2.920,0.010,0.290,2013-09-24
+323,"Madden NFL 2003",PS2,"EA Sports","EA Tiburon",9.4,4.140,3.360,0.210,0.010,0.560,2002-08-12
+324,"Assassin's Creed: Unity",PS4,Ubisoft,"Ubisoft Montreal",0.0,4.140,1.250,2.160,0.090,0.650,2014-11-11
+325,"Destiny 2",PS4,Activision,Bungie,0.0,4.140,1.920,1.440,0.100,0.690,2017-09-06
+326,"Super Mario World 2: Yoshi's Island",SNES,Nintendo,"Nintendo EAD",9.0,4.120,1.650,0.610,1.760,0.090,1995-10-04
+327,"Batman: Arkham Knight",PS4,"Warner Bros. Interactive","Rocksteady Studios",8.1,4.110,1.650,1.680,0.110,0.660,2015-06-23
+328,"FIFA 07 Soccer",PS2,"EA Sports","Team Fusion",8.4,4.110,0.710,2.480,0.030,0.890,2006-10-03
+329,"The Sims 4",PC,"Electronic Arts",Maxis,7.0,4.100,1.200,2.600,0.000,0.300,2014-09-02
+330,"Monster Hunter 4",3DS,Capcom,Capcom,0.0,3.440,0.000,0.000,3.440,0.000,2013-09-14
+331,"Street Fighter II Turbo",SNES,Capcom,Capcom,9.0,4.100,1.420,0.510,2.100,0.070,1993-08-01
+332,"Crash Bandicoot 2: Cortex Strikes Back",PS,"Sony Computer Entertainment","Naughty Dog",8.6,7.580,3.780,2.170,1.310,0.310,1997-10-31
+333,"Fallout: New Vegas",X360,"Bethesda Softworks","Obsidian Entertainment",8.2,4.080,2.670,1.030,0.040,0.340,2010-10-19
+334,"Assassin's Creed Origins",PS4,Ubisoft,"Ubisoft Montreal",0.0,4.060,1.220,2.110,0.110,0.630,2017-10-27
+335,"Far Cry 4",PS4,Ubisoft,"Ubisoft Montreal",8.4,4.060,1.180,2.140,0.110,0.630,2014-11-18
+336,"Carnival Games",Wii,"Global Star Software","Cat Daddy Games",4.2,4.060,2.120,1.470,0.050,0.420,2007-08-28
+337,"World Soccer Winning Eleven 9",PS2,Konami,"Konami Computer Entertainment Tokyo",8.9,4.060,0.120,2.260,0.900,0.770,2006-02-07
+338,"Forza Motorsport 2",X360,"Microsoft Game Studios","Turn 10 Studios",9.1,4.050,2.350,1.270,0.030,0.410,2007-05-29
+339,"Namco Museum Vol.3",PS,Namco,Namco,0.0,4.050,2.280,1.550,0.160,0.060,1997-01-31
+340,"Tekken Tag Tournament",PS2,Namco,Namco,8.7,4.050,1.680,1.510,0.510,0.350,2000-10-25
+341,"Super Mario Maker",WiiU,Nintendo,"Nintendo EAD",8.8,3.450,1.270,0.940,1.030,0.210,2015-09-11
+342,Golf,NES,Nintendo,Nintendo,0.0,4.010,1.220,0.280,2.460,0.040,1985-10-18
+343,"EyeToy Play",PS2,"Sony Computer Entertainment","SCEE London Studio",7.5,4.200,0.880,2.300,0.200,0.830,2003-11-04
+344,"Monster Hunter: World",PS4,Capcom,Capcom,9.3,4.670,1.030,1.060,2.170,0.420,2018-01-26
+345,Pitfall!,2600,Activision,Activision,0.0,4.500,4.210,0.240,0.000,0.050,1982-04-20
+346,"Star Fox 64",N64,Nintendo,"Nintendo EAD",9.0,4.030,2.780,0.580,0.640,0.040,1997-07-01
+347,"World of Warcraft: Wrath of the Lich King",PC,"Blizzard Entertainment","Blizzard Entertainment",9.3,1.320,0.010,0.130,0.000,1.180,2008-11-13
+348,"Fallout 3",PS3,"Bethesda Softworks","Bethesda Game Studios",8.8,4.000,2.180,1.150,0.070,0.610,2008-10-28
+349,"The Elder Scrolls V: Skyrim",PC,"Bethesda Softworks","Bethesda Game Studios",9.2,3.990,1.180,2.250,0.000,0.560,2011-11-11
+350,"Namco Museum: 50th Anniversary",PS2,Namco,"Digital Eclipse",0.0,3.980,2.080,1.350,0.000,0.540,2005-08-30
+351,"NBA 2K16",PS4,"2K Sports","Visual Concepts",8.7,3.980,2.560,0.660,0.050,0.710,2015-09-29
+352,"Far Cry 5",PS4,Ubisoft,Ubisoft,7.9,3.950,1.440,1.730,0.150,0.620,2018-03-27
+353,"Battlefield 4",PS4,"Electronic Arts","EA DICE",8.3,3.940,1.400,1.740,0.190,0.620,2013-11-15
+354,"Assassin's Creed IV: Black Flag",PS3,Ubisoft,"Ubisoft Montreal",8.7,3.940,1.340,1.860,0.130,0.620,2013-10-29
+355,"EA Sports Active",Wii,"EA Sports","EA Vancouver",8.3,3.930,2.110,1.350,0.060,0.400,2009-05-19
+356,"Donkey Kong Land",GB,Nintendo,"Rare Ltd.",0.0,3.910,1.970,0.760,1.070,0.110,1995-07-26
+357,"English Training: Have Fun Improving Your Skills!",DS,Nintendo,Plato,0.0,3.330,0.000,0.990,2.320,0.020,2006-10-27
+358,"Dragon Quest III",NES,Enix,ChunSoft,0.0,3.870,0.100,0.000,3.770,0.000,1992-03-01
+359,"Tony Hawk's Underground",PS2,Activision,"Neversoft Entertainment",8.7,3.900,2.290,1.170,0.010,0.420,2003-10-27
+360,"Just Dance 2014",Wii,Ubisoft,"Ubisoft Paris",7.4,3.890,1.910,1.660,0.000,0.330,2013-10-08
+361,"Professor Layton and the Diabolical Box",DS,Nintendo,"Level 5",8.5,3.950,0.900,1.760,0.920,0.370,2009-08-24
+362,"Sports Champions",PS3,"Sony Computer Entertainment","SCE San Diego Studio",7.6,3.880,2.150,1.130,0.100,0.500,2010-09-17
+363,"World Soccer Winning Eleven 8 International",PS2,Konami,"Konami Computer Entertainment Tokyo",9.3,3.850,0.160,1.890,1.120,0.680,2005-02-01
+364,"Namco Museum Vol.1",PS,Namco,Namco,0.0,3.840,2.120,1.440,0.220,0.060,1996-07-31
+365,"The Legend of Zelda: Link's Awakening",GB,Nintendo,"Nintendo EAD",0.0,3.830,2.210,0.960,0.540,0.130,1993-08-01
+366,"Resident Evil VII: Biohazard",PS4,Capcom,Capcom,8.6,3.310,0.880,1.560,0.410,0.460,2017-01-24
+367,"Monster Hunter Freedom Unite",PSP,Capcom,"Capcom Production Studio 1",7.7,5.500,0.470,0.570,4.130,0.340,2009-06-23
+368,"Gran Turismo Sport",PS4,"Sony Interactive Entertainment","Polyphony Digital",0.0,3.770,0.630,2.350,0.240,0.540,2017-10-17
+369,"LEGO Indiana Jones: The Original Adventures",X360,LucasArts,"Traveller's Tales",7.5,3.760,2.400,1.010,0.000,0.360,2008-06-03
+370,"The Sims: Unleashed",PC,"Electronic Arts",Maxis,7.3,3.760,2.030,1.560,0.000,0.170,2002-09-23
+371,"Tomodachi Collection",DS,Nintendo,"Nintendo SPD Group No.1",0.0,3.670,0.000,0.000,3.670,0.000,2009-06-18
+372,"Ratchet & Clank: Size Matters",PSP,"Sony Computer Entertainment","High Impact Games",8.5,3.750,1.400,1.400,0.100,0.860,2007-02-13
+373,"Pokémon Trading Card Game",GB,Nintendo,"Hudson Soft",8.3,3.700,1.490,0.730,1.380,0.100,2000-04-10
+374,"Ratchet & Clank",PS2,"Sony Computer Entertainment","Insomniac Games",0.0,3.330,1.440,1.010,0.570,0.300,2002-11-07
+375,"FIFA 17",XOne,"Electronic Arts","EA Canada",8.8,3.710,1.040,2.400,0.000,0.270,2016-09-27
+376,"FIFA Soccer 2005",PS2,"EA Sports","EA Canada",8.4,3.700,0.580,2.480,0.040,0.590,2004-10-12
+377,"Super Mario Maker",3DS,Nintendo,Nintendo,7.3,3.230,0.780,1.040,1.250,0.160,2016-12-02
+378,"The Legend of Zelda: Skyward Sword",Wii,Nintendo,"Nintendo EAD",9.4,3.960,2.030,1.180,0.370,0.390,2011-11-20
+379,"Tony Hawk's Pro Skater 4",PS2,Activision,"Neversoft Entertainment",9.6,3.670,2.130,1.180,0.010,0.350,2002-10-23
+380,"Midnight Club 3: DUB Edition",PSP,"Rockstar Games","Rockstar Leeds",7.2,3.660,1.650,1.220,0.000,0.790,2005-06-27
+381,MySims,DS,"Electronic Arts","EA Redwood Shores",6.7,3.660,1.580,1.600,0.080,0.400,2007-09-18
+382,Banjo-Kazooie,N64,Nintendo,"Rare Ltd.",9.3,3.650,1.870,1.130,0.550,0.100,1998-05-31
+383,"SOCOM: U.S. Navy SEALs",PS2,"Sony Computer Entertainment","Zipper Interactive",8.0,3.650,2.530,0.810,0.060,0.240,2002-08-27
+384,"Battlefield 4",PS3,"Electronic Arts","EA DICE",8.7,3.640,1.310,1.500,0.270,0.550,2013-10-29
+385,"Jak and Daxter: The Precursor Legacy",PS2,"Sony Computer Entertainment","Naughty Dog",9.0,3.640,2.080,1.090,0.150,0.330,2001-12-04
+386,"Pokémon Snap",N64,Nintendo,"HAL Laboratory",7.9,3.630,2.230,0.680,0.660,0.060,1999-06-30
+387,"Pro Evolution Soccer 2008",PS2,Konami,Konami,8.2,3.630,0.050,0.000,0.640,2.930,2008-03-11
+388,"FIFA Soccer 10",PS3,"EA Sports","EA Canada",9.0,3.630,0.600,2.460,0.050,0.520,2009-10-20
+389,"Guitar Hero: World Tour",Wii,Activision,"Vicarious Visions",8.4,3.620,2.320,0.960,0.000,0.340,2008-10-26
+390,"Star Wars Battlefront",PS2,LucasArts,"Pandemic Studios",8.1,3.610,1.930,1.220,0.030,0.440,2004-09-20
+391,"Doom II",PC,"GT Interactive","id Software",9.3,3.610,2.050,1.400,0.000,0.160,1994-09-30
+392,"The Simpsons: Road Rage",PS2,"Electronic Arts","Radical Entertainment",6.1,3.610,2.020,1.170,0.000,0.420,2001-11-24
+393,"Metal Gear Solid 3: Snake Eater",PS2,Konami,"KCEJ / Kojima Productions",9.0,4.230,1.460,0.000,0.830,1.930,2004-11-17
+394,"Assassin's Creed Syndicate",PS4,Ubisoft,"Ubisoft Quebec",8.6,3.600,0.900,2.060,0.080,0.550,2015-10-23
+395,"Star Wars Battlefront II",PS2,LucasArts,"Pandemic Studios",8.5,3.590,2.180,1.020,0.030,0.370,2005-11-01
+396,"Assassin's Creed: Unity",XOne,Ubisoft,"Ubisoft Montreal",0.0,3.580,2.340,0.900,0.000,0.340,2014-11-11
+397,"Cooking Mama 2: Dinner With Friends",DS,Majesco,"Office Create",6.9,3.580,1.600,1.490,0.100,0.390,2007-11-13
+398,"WWF SmackDown!",PS,THQ,Yuke's,0.0,3.580,2.010,1.350,0.060,0.160,2000-03-01
+399,"Croc: Legend of the Gobbos",PS,"Fox Interactive","Argonaut Games",7.6,3.560,1.570,1.790,0.000,0.200,1997-09-29
+400,"Battlefield 4",X360,"Electronic Arts","EA DICE",8.7,3.540,2.160,1.050,0.020,0.320,2013-10-29
+401,"Grand Theft Auto: Liberty City Stories",PS2,"Rockstar Games","Rockstar Leeds",8.3,3.540,1.560,1.400,0.070,0.500,2006-06-06
+402,"The Getaway",PS2,"Sony Computer Entertainment","Team Soho",7.7,3.540,1.230,1.770,0.050,0.490,2003-01-19
+403,"Tomb Raider III: Adventures of Lara Croft",PS,"Eidos Interactive","Core Design Ltd.",8.2,3.540,1.660,1.580,0.120,0.180,1998-11-21
+404,"Batman: Arkham Asylum",X360,"Eidos Interactive","Rocksteady Studios",9.1,3.540,2.240,0.950,0.020,0.330,2009-08-25
+405,"Assassin's Creed: Brotherhood",X360,Ubisoft,"Ubisoft Montreal",9.1,3.530,2.870,0.390,0.030,0.250,2010-11-16
+406,"James Bond 007: Agent Under Fire",PS2,"Electronic Arts","EA Redwood Shores",0.0,3.530,1.900,1.130,0.100,0.410,2001-11-13
+407,"LEGO Star Wars: The Video Game",PS2,"Eidos Interactive","Traveller's Tales",7.9,3.530,1.980,1.140,0.010,0.410,2005-04-02
+408,"Resident Evil 5",X360,Capcom,Capcom,8.6,3.530,2.130,0.930,0.120,0.340,2009-03-13
+409,"Rugrats in Paris: The Movie",PS,THQ,"Avalanche Software",0.0,3.520,1.960,1.330,0.000,0.230,2000-10-29
+410,"NBA 2K17",PS4,"2K Sports","Visual Concepts",9.0,3.520,2.280,0.590,0.030,0.630,2016-09-16
+411,"FIFA Soccer 11",X360,"EA Sports","EA Canada",8.7,3.520,0.710,2.390,0.020,0.400,2010-09-28
+412,"Donkey Kong Country 3: Dixie Kong's Double Trouble!",SNES,Nintendo,"Rare Ltd.",8.8,3.510,1.170,0.500,1.750,0.080,1996-11-22
+413,"Fable II",X360,"Microsoft Game Studios","Lionhead Studios",9.0,4.280,2.510,1.240,0.110,0.410,2008-10-21
+414,"Kung Fu",NES,Nintendo,"Irem Software Engineering",0.0,3.500,1.640,0.380,1.420,0.060,1985-10-01
+415,"Resident Evil 3: Nemesis",PS,Capcom,Capcom,9.4,3.720,1.300,0.770,1.540,0.110,1999-11-11
+416,"World of Warcraft: The Burning Crusade",PC,"Blizzard Entertainment","Blizzard Entertainment",9.2,4.090,2.570,1.520,0.000,0.000,2007-01-16
+417,"FIFA Soccer 2004",PS2,"EA Sports","EA Canada",8.0,3.490,0.590,2.360,0.040,0.510,2003-11-04
+418,"Pokémon Mystery Dungeon: Blue Rescue Team",DS,Nintendo,ChunSoft,6.3,2.030,1.150,0.050,0.830,0.000,2006-09-18
+419,"Mortal Kombat X",PS4,"Warner Bros. Interactive Entertainment","NetherRealm Studios",0.0,3.490,1.940,0.940,0.000,0.610,2015-04-14
+420,"Battlefield: Bad Company 2",X360,"Electronic Arts","EA Digital Illusions CE",9.0,3.480,2.110,1.010,0.040,0.330,2010-03-02
+421,Borderlands,X360,"2K Games","Gearbox Software",8.3,3.480,2.430,0.720,0.030,0.300,2009-10-20
+422,"Animal Crossing: Happy Home Designer",3DS,Nintendo,"Nintendo EAD",6.6,3.410,0.710,1.100,1.450,0.150,2015-09-25
+423,"Mario & Sonic at the Olympic Winter Games",DS,Sega,Sega,7.6,3.470,1.210,1.630,0.270,0.370,2009-10-13
+424,"Guitar Hero: On Tour",DS,Activision,"Vicarious Visions",7.1,3.460,2.100,1.010,0.010,0.350,2008-06-22
+425,"Dragon Ball Z: Budokai",PS2,Atari,"Dimps Corporation",0.0,3.090,2.170,0.280,0.550,0.080,2002-12-03
+426,"Spyro 2: Ripto's Rage!",PS,"Sony Computer Entertainment","Insomniac Games",8.7,3.520,2.140,1.210,0.010,0.170,1999-10-31
+427,"Halo: The Master Chief Collection",XOne,"Microsoft Studios","343 Industries",0.0,3.440,2.060,1.040,0.030,0.310,2014-11-11
+428,"LEGO Batman: The Videogame",X360,"Warner Bros. Interactive","Traveller's Tales",7.5,3.440,2.070,1.040,0.000,0.340,2008-09-23
+429,"Tekken 4",PS2,Namco,Namco,7.9,3.440,1.550,1.270,0.330,0.290,2002-09-23
+430,"FIFA 14",PS4,"EA Sports","EA Canada",0.0,3.430,0.620,2.180,0.120,0.510,2013-11-15
+431,"LittleBigPlanet 2",PS3,"Sony Computer Entertainment","Media Molecule",9.1,3.430,1.830,1.070,0.060,0.470,2011-01-18
+432,"Grand Theft Auto 2",PS,"Rockstar Games","DMA Design",6.9,3.420,1.130,2.070,0.000,0.220,1999-10-25
+433,Destiny,XOne,Activision,Bungie,8.3,3.410,2.170,0.920,0.000,0.320,2014-09-09
+434,"Spider-Man 2",PS2,Activision,Treyarch,7.9,3.410,1.750,1.200,0.020,0.430,2004-06-28
+435,"F-1 Race",GB,Nintendo,Nintendo,0.0,3.410,1.730,0.690,0.590,0.400,1991-02-01
+436,"FIFA Soccer 2003",PS2,"EA Sports","EA Canada",0.0,3.400,0.460,2.280,0.050,0.610,2002-11-14
+437,"Crash Bash",PS,"Sony Computer Entertainment","Eurocom Entertainment Software",6.8,3.390,1.560,1.470,0.190,0.170,2000-11-06
+438,"Gears of War 4",XOne,"Microsoft Studios","The Coalition",0.0,3.380,2.170,0.900,0.000,0.320,2016-10-11
+439,"Tekken: Dark Resurrection",PSP,"Namco Bandai",8ing/Raizing,8.7,2.620,0.760,1.100,0.120,0.650,2006-07-25
+440,"The Elder Scrolls V: Skyrim Special Edition",PS4,"Bethesda Softworks","Bethesda Softworks",8.3,3.360,1.240,1.500,0.080,0.540,2016-10-28
+441,"Watch Dogs 2",PS4,Ubisoft,Ubisoft,0.0,3.360,0.980,1.740,0.120,0.520,2016-11-15
+442,"The Legend of Zelda: Majora's Mask",N64,Nintendo,"Nintendo EAD",9.3,3.360,1.900,0.670,0.730,0.060,2000-10-25
+443,"WWF War Zone",PS,"Acclaim Entertainment","Iguana Entertainment",0.0,3.360,2.470,0.760,0.000,0.130,1998-07-14
+444,"Yoshi's Island DS",DS,Nintendo,Artoon,8.2,2.770,1.450,0.070,1.100,0.150,2006-11-13
+445,"Assassin's Creed IV: Black Flag",X360,Ubisoft,"Ubisoft Montreal",8.5,3.340,1.900,1.140,0.010,0.300,2013-10-29
+446,"NBA 2K18",PS4,"2K Sports","Visual Concepts",8.1,3.340,2.130,0.570,0.040,0.590,2017-09-19
+447,"Big Brain Academy: Wii Degree",Wii,Nintendo,"Nintendo EAD",7.1,3.790,1.050,1.910,0.410,0.420,2007-06-11
+448,"Luigi's Mansion",GC,Nintendo,"Nintendo EAD",7.9,3.600,2.380,0.670,0.460,0.100,2001-11-17
+449,"James Bond 007: Nightfire",PS2,"Electronic Arts","Eurocom Entertainment Software",0.0,3.330,1.450,1.290,0.120,0.460,2002-11-18
+450,"Star Wars Episode III: Revenge of the Sith",PS2,LucasArts,"The Collective",0.0,3.320,1.470,1.390,0.030,0.430,2005-05-04
+451,"Max Payne",PS2,"Rockstar Games","Remedy Entertainment",8.1,3.310,1.990,1.050,0.050,0.220,2001-12-06
+452,"Madden NFL 16",PS4,"EA Sports","EA Tiburon",8.2,3.300,2.390,0.310,0.000,0.610,2015-08-25
+453,"The Lord of the Rings: The Return of the King",PS2,"Electronic Arts","Hypnos Entertainment, Inc.",8.4,3.280,1.500,1.280,0.050,0.460,2003-11-05
+454,"Spyro: Year of the Dragon",PS,"Sony Computer Entertainment","Insomniac Games",9.1,3.710,1.930,1.580,0.000,0.190,2000-10-23
+455,"The Legend of Zelda: Majora's Mask 3D",3DS,Nintendo,GREZZO,9.0,2.500,1.200,0.640,0.480,0.180,2015-02-13
+456,"Madden NFL 17",PS4,"EA Sports","EA Tiburon",8.5,3.280,2.300,0.370,0.000,0.600,2016-08-23
+457,"True Crime: Streets of LA",PS2,Activision,Luxoflux,0.0,3.270,1.890,1.050,0.020,0.310,2003-11-03
+458,"Gran Turismo (PSP)",PSP,"Sony Computer Entertainment","Polyphony Digital",0.0,3.270,0.510,1.590,0.310,0.860,2009-10-01
+459,"Far Cry 3",PS3,Ubisoft,"Ubisoft Montreal",0.0,3.270,0.880,1.790,0.100,0.500,2012-12-04
+460,"God of War: Chains of Olympus",PSP,"Sony Computer Entertainment","Ready at Dawn",8.9,3.190,1.480,1.000,0.040,0.660,2008-03-04
+461,"FIFA 16",XOne,"EA Sports","EA Canada",8.5,3.250,0.920,2.100,0.000,0.240,2015-09-22
+462,"Flash Focus: Vision Training in Minutes a Day",DS,Nintendo,"Bandai Namco Games",6.1,3.830,0.860,1.560,1.050,0.350,2007-10-15
+463,"Ratchet & Clank: Up Your Arsenal",PS2,"Sony Computer Entertainment","Insomniac Games",9.1,2.570,1.310,0.740,0.310,0.220,2004-11-03
+464,"007: Tomorrow Never Dies",PS,"Electronic Arts","Black Ops Entertainment",6.2,3.210,1.720,1.330,0.000,0.160,1999-11-16
+465,"L.A. Noire",PS3,"Rockstar Games","Team Bondi",9.1,3.210,1.290,1.310,0.120,0.490,2011-11-15
+466,Baseball,NES,Nintendo,Nintendo,0.0,3.200,0.730,0.100,2.350,0.020,1985-10-01
+467,"Detroit: Become Human",PS4,"Sony Interactive Entertainment","Quantic Dream",8.0,1.570,0.550,0.670,0.120,0.240,2018-05-25
+468,"Dragon Quest IV",NES,Enix,ChunSoft,0.0,3.120,0.080,0.000,3.030,0.010,1992-10-01
+469,"Dragon Quest VI: Maboroshi no Daichi",SNES,Enix,"Heart Beat",0.0,3.190,0.000,0.000,3.190,0.000,1995-12-09
+470,"Killer Instinct",SNES,Nintendo,"Rare Ltd.",0.0,3.200,2.260,0.720,0.120,0.100,1995-08-01
+471,"Perfect Dark",N64,Rare,"Rare Ltd.",9.7,2.520,1.550,0.750,0.160,0.060,2000-05-22
+472,"WWF SmackDown! 2: Know Your Role",PS,THQ,Yuke's,8.7,3.200,1.760,1.210,0.070,0.160,2000-11-21
+473,"Assassin's Creed IV: Black Flag",PS4,Ubisoft,"Ubisoft Montreal",8.3,3.190,1.070,1.550,0.060,0.510,2013-11-15
+474,1-2-Switch,NS,Nintendo,"Nintendo EPD",5.7,2.460,0.620,1.200,0.500,0.150,2017-03-03
+475,"Personal Trainer: Cooking",DS,Nintendo,"Nintendo EAD",8.4,3.130,0.910,1.010,1.030,0.170,2008-11-24
+476,"Enter the Matrix",PS2,Atari,"Shiny Entertainment",0.0,3.180,1.780,1.120,0.090,0.190,2003-05-14
+477,"Assassin's Creed Odyssey",PS4,Ubisoft,"Ubisoft Quebec",9.5,3.180,1.180,1.400,0.090,0.510,2018-10-05
+478,"Fallout: New Vegas",PS3,"Bethesda Softworks","Obsidian Entertainment",8.2,3.170,1.540,1.040,0.100,0.490,2010-10-19
+479,"Sonic Heroes",PS2,Sega,"Sonic Team",6.6,2.960,1.040,1.370,0.060,0.490,2004-01-27
+480,"Club Penguin: Elite Penguin Force",DS,"Disney Interactive Studios","1st Playable Productions",7.0,3.140,1.870,0.970,0.000,0.300,2008-11-25
+481,"FIFA Soccer 08",PS2,"EA Sports","EA Canada",0.0,3.140,0.680,0.000,0.000,2.460,2007-10-09
+482,"FIFA 18",XOne,"EA Sports","EA Vancouver",8.0,3.140,0.980,1.920,0.000,0.230,2017-09-29
+483,Spider-Man,PS,Activision,"Neversoft Entertainment",0.0,3.130,1.700,1.250,0.020,0.160,2000-08-30
+484,"Need for Speed III: Hot Pursuit",PS,"Electronic Arts","EA Canada",0.0,3.120,2.140,0.860,0.000,0.130,1998-03-25
+485,"The Elder Scrolls IV: Oblivion",PS3,"Bethesda Softworks","4J Studios",9.3,3.120,1.690,0.860,0.140,0.440,2007-03-20
+486,"Star Wars Episode I Racer",N64,LucasArts,LucasArts,8.7,3.120,2.310,0.620,0.140,0.040,1999-05-19
+487,"Tekken 6",PS3,"Namco Bandai","Namco Bandai Games",7.9,2.770,1.200,0.970,0.170,0.420,2009-10-27
+488,Yoshi,GB,Nintendo,"Game Freak",0.0,2.920,1.570,0.620,0.730,0.000,1992-07-01
+489,"Resident Evil 6",PS3,Capcom,Capcom,0.0,3.120,0.880,0.970,0.880,0.390,2012-10-02
+490,"Tom Clancy's Ghost Recon Wildlands",PS4,Ubisoft,"Ubisoft Paris",7.0,3.120,1.070,1.350,0.220,0.470,2017-03-07
+491,"NBA 2K13",X360,"2K Sports","Visual Concepts",8.6,3.110,2.620,0.210,0.010,0.280,2012-10-02
+492,Titanfall,XOne,"Electronic Arts","Respawn Entertainment",0.0,3.110,1.880,0.910,0.040,0.280,2014-03-11
+493,"Mario Party 9",Wii,Nintendo,"Nd Cube Co., Ltd.",6.5,3.200,1.060,1.150,0.770,0.220,2012-03-11
+494,"Mass Effect 2",X360,"Electronic Arts","BioWare Edmonton",9.5,3.100,1.990,0.810,0.030,0.270,2010-01-26
+495,"Madden NFL 2002",PS2,"EA Sports","EA Sports",0.0,3.080,2.500,0.160,0.010,0.420,2001-08-19
+496,"World Class Track Meet",NES,Bandai,Bandai,0.0,3.080,1.920,0.450,0.640,0.070,1987-09-01
+497,"LEGO Batman: The Videogame",Wii,"Warner Bros. Interactive","Traveller's Tales",7.3,3.080,1.800,0.980,0.000,0.290,2008-09-23
+498,"Saints Row 2",X360,THQ,"Volition Inc.",7.9,3.070,1.980,0.790,0.020,0.280,2008-10-14
+499,"Donkey Kong",GB,Nintendo,"Nintendo EAD",0.0,3.070,1.570,0.620,0.550,0.340,1994-06-01
+500,"New Super Luigi U",WiiU,Nintendo,Nintendo,7.8,2.420,1.250,0.750,0.220,0.200,2013-08-25
+501,"The Sims: Vacation",PC,"Electronic Arts",Maxis,0.0,3.070,1.720,1.210,0.000,0.140,2002-03-25
+502,"Call of Duty: Ghosts",XOne,Activision,"Infinity Ward",7.5,3.070,1.920,0.860,0.000,0.280,2013-11-22
+503,"LEGO Batman: The Videogame",DS,"Warner Bros. Interactive","Traveller's Tales",7.8,3.060,1.750,1.020,0.000,0.290,2008-09-23
+504,"Borderlands 2",X360,"2K Games","Gearbox Software",0.0,3.060,1.890,0.880,0.040,0.260,2013-01-15
+505,"Mario Tennis Aces",NS,Nintendo,"Camelot Software Planning",7.8,1.870,0.710,0.620,0.420,0.120,2018-06-22
+506,"Kung Fu Panda",X360,Activision,Luxoflux,7.5,3.050,1.910,0.840,0.000,0.290,2008-06-03
+507,"Mass Effect 3",X360,"Electronic Arts",BioWare,0.0,3.040,1.940,0.840,0.030,0.240,2012-03-06
+508,"Rhythm Heaven",DS,Nintendo,"Nintendo SPD Group No.1",8.5,3.120,0.550,0.500,1.930,0.140,2009-04-05
+509,"Metal Gear Solid V: The Phantom Pain",PS4,"Konami Digital Entertainment","Kojima Productions",0.0,3.040,0.970,1.150,0.500,0.420,2015-09-01
+510,Rayman,PS,Ubisoft,"Ubisoft Montpellier",7.0,3.030,1.540,1.330,0.000,0.160,1995-09-01
+511,"Tom Clancy's Splinter Cell",XB,Ubisoft,Ubisoft,9.3,3.020,1.850,1.040,0.000,0.130,2002-11-17
+512,"Mike Tyson's Punch-Out!!",NES,Nintendo,"Nintendo IRD",0.0,3.020,2.030,0.470,0.450,0.070,1987-10-01
+513,"Professor Layton and the Unwound Future",DS,Nintendo,"Level 5",8.4,3.280,0.610,1.580,0.820,0.270,2010-09-12
+514,"Fire Emblem Fates",3DS,Nintendo,"Intelligent Systems",0.0,1.980,0.990,0.310,0.530,0.140,2016-02-19
+515,"Dead Rising 3",XOne,"Microsoft Studios",Capcom,0.0,1.630,1.060,0.400,0.010,0.150,2013-11-22
+516,Fable,XB,"Microsoft Game Studios","Big Blue Box",8.6,2.660,1.990,0.580,0.000,0.090,2004-09-14
+517,"Gears of War 3",X360,"Microsoft Studios","Epic Games",9.1,6.220,4.050,1.590,0.070,0.500,2011-09-20
+518,"God of War: Ascension",PS3,"Sony Computer Entertainment","SCEA Santa Monica Studio",0.0,2.400,1.230,0.720,0.040,0.410,2013-03-12
+519,"Halo 3: ODST",X360,"Microsoft Game Studios",Bungie,8.7,6.350,4.340,1.340,0.060,0.610,2009-09-22
+520,"Heavy Rain",PS3,"Sony Computer Entertainment","Quantic Dream",8.8,3.060,1.290,1.240,0.060,0.480,2010-02-23
+521,"Kinect Sports",X360,"Microsoft Game Studios","Rare Ltd.",7.4,6.230,3.920,1.730,0.030,0.550,2010-11-04
+522,"Left 4 Dead",X360,"Valve Corporation","Certain Affinity / Valve Software",8.7,3.520,2.660,0.490,0.050,0.310,2008-10-18
+523,"Left 4 Dead 2",X360,"Electronic Arts","Certain Affinity / Valve Software",9.0,3.970,2.670,0.880,0.050,0.380,2009-11-17
+524,MotorStorm,PS3,"Sony Computer Entertainment","Evolution Studios",8.2,3.870,1.530,1.610,0.060,0.670,2007-03-06
+525,"Sonic and the Secret Rings",Wii,Sega,"Sonic Team",6.7,2.750,1.230,1.190,0.040,0.300,2007-02-20
+526,"Sonic Rush",DS,Sega,"Dimps Corporation",7.8,3.130,1.210,1.560,0.060,0.290,2005-11-15
+527,"Warcraft II: Tides of Darkness",PC,"Blizzard Entertainment","Blizzard Entertainment",9.3,4.210,1.700,2.270,0.000,0.230,1996-04-30
+528,"WWE SmackDown! vs. Raw 2006",PS2,THQ,Yuke's,8.4,3.000,1.570,1.020,0.000,0.410,2005-11-15
+529,"Kirby Super Star Ultra",DS,Nintendo,"HAL Laboratory",7.3,2.920,1.550,0.040,1.190,0.150,2008-09-22
+530,"Star Fox",SNES,Nintendo,"Argonaut Games",0.0,2.990,1.610,0.510,0.800,0.070,1993-03-01
+531,"The Sims: Livin Large",PC,"Electronic Arts",Maxis,0.0,2.990,1.670,1.180,0.000,0.130,2000-08-27
+532,"World Soccer Winning Eleven 6 International",PS2,Konami,"Konami Computer Entertainment Tokyo",0.0,2.990,0.120,1.260,1.160,0.450,2003-03-11
+533,"Far Cry 3",X360,Ubisoft,"Ubisoft Montreal",0.0,2.980,1.380,1.330,0.020,0.250,2012-12-04
+534,"Mario vs. Donkey Kong: Mini-Land Mayhem!",DS,Nintendo,"Nintendo Software Technology Corporation",7.8,2.680,1.630,0.510,0.350,0.180,2010-11-14
+535,"Style Savvy",DS,Nintendo,"syn Sophia",7.6,2.580,0.620,0.820,0.960,0.180,2009-11-02
+536,"Yokai Watch",3DS,Nintendo,"Level 5",7.7,2.550,0.440,0.680,1.340,0.090,2015-11-06
+537,"Ratchet & Clank: Going Commando",PS2,"Sony Computer Entertainment","Insomniac Games",8.7,2.780,1.440,0.830,0.260,0.250,2003-11-11
+538,"The Legend of Zelda: Spirit Tracks",DS,Nintendo,"Nintendo EAD",8.7,3.320,1.400,0.920,0.740,0.260,2009-12-07
+539,"Battlefield: Bad Company 2",PS3,"Electronic Arts","EA Digital Illusions CE",8.9,2.960,1.330,1.110,0.080,0.440,2010-03-02
+540,"Hitman 2: Silent Assassin",PS2,"Eidos Interactive","IO Interactive",0.0,2.960,1.360,1.150,0.040,0.410,2002-10-01
+541,"Street Fighter IV",X360,Capcom,"Capcom / Dimps Corporation",9.3,2.950,1.830,0.700,0.150,0.260,2009-02-17
+542,"SOCOM II: U.S. Navy SEALs",PS2,"Sony Computer Entertainment","Zipper Interactive",0.0,2.940,2.220,0.510,0.060,0.150,2003-11-04
+543,"WWE SmackDown! vs. RAW 2006",PS2,THQ,Yuke's,0.0,2.940,1.450,1.110,0.040,0.330,2005-11-14
+544,"Wave Race 64",N64,Nintendo,"Nintendo EAD",9.2,2.940,1.980,0.580,0.340,0.040,1996-11-05
+545,"Pac-Man Collection",GBA,Namco,"Mass Media",0.0,2.940,2.070,0.770,0.050,0.050,2001-07-12
+546,"Kirby Star Allies",NS,Nintendo,"HAL Laboratory",8.1,1.990,0.750,0.410,0.720,0.110,2018-03-16
+547,"Pokémon Ranger",DS,Nintendo,"HAL Laboratory",6.6,2.150,1.280,0.030,0.730,0.120,2006-10-30
+548,"Madden NFL 13",X360,"EA Sports","EA Tiburon",8.0,2.930,2.530,0.160,0.000,0.240,2012-08-28
+549,"Doom (2016)",PS4,"Bethesda Softworks","id Software",0.0,2.920,0.930,1.480,0.040,0.460,2016-05-13
+550,"Mass Effect",X360,"Microsoft Game Studios","BioWare Edmonton",9.2,2.910,1.830,0.790,0.030,0.270,2007-11-20
+551,"FIFA 15",X360,"EA Sports","EA Canada",6.9,2.910,0.800,1.900,0.000,0.210,2014-09-23
+552,"Dragon Ball Z: Budokai 2",PS2,Atari,"Dimps Corporation",0.0,2.410,1.630,0.220,0.510,0.060,2003-12-04
+553,"Final Fantasy III",SNES,Square,SquareSoft,9.1,3.420,0.860,0.000,2.550,0.020,1994-10-20
+554,"Mario Party: Island Tour",3DS,Nintendo,"Nd Cube Co., Ltd.",5.5,2.400,0.660,1.040,0.560,0.140,2013-11-22
+555,Nioh,PS4,"Sony Interactive Entertainment","Team Ninja",0.0,1.030,0.340,0.360,0.200,0.140,2017-02-07
+556,"Mortal Kombat (2011)",PS3,"Warner Bros. Interactive Entertainment","NetherRealm Studios",8.5,2.900,1.980,0.540,0.000,0.380,2011-04-19
+557,"Sega Superstars Tennis",X360,Sega,"Sumo Digital",6.9,2.890,1.750,0.860,0.000,0.280,2008-03-18
+558,"Cooking Mama: Cook Off",Wii,Majesco,"Office Create",5.9,2.890,1.410,1.120,0.050,0.300,2007-03-20
+559,"Hot Shots Golf 3",PS2,"Sony Computer Entertainment","Clap Hanz",0.0,2.890,0.990,0.320,1.380,0.200,2002-03-11
+560,"Call of Duty: Finest Hour",PS2,Activision,"Spark Unlimited",0.0,2.890,1.510,1.120,0.010,0.240,2004-11-16
+561,"Syphon Filter",PS,"989 Studios",Eidetic,9.2,2.880,2.030,0.720,0.020,0.110,1999-01-31
+562,"Middle-Earth: Shadow of Mordor",PS4,"Warner Bros. Interactive Entertainment","Monolith Productions",0.0,3.190,1.030,1.600,0.050,0.510,2014-09-30
+563,"Imagine: Babyz",DS,Ubisoft,"Visual Impact",3.5,2.870,1.300,1.260,0.000,0.310,2007-10-23
+564,"Donkey Kong Country Returns 3D",3DS,Nintendo,"Monster Games",8.6,2.130,0.810,0.750,0.420,0.140,2013-05-24
+565,"Mafia III",PS4,"2K Games","Hangar 13",6.9,2.870,0.720,1.670,0.040,0.440,2016-10-07
+566,"Colin McRae Rally",PS,"Sony Computer Entertainment",Codemasters,7.9,2.870,0.090,2.430,0.120,0.220,2000-01-31
+567,"Wii Music",Wii,Nintendo,"Nintendo EAD",5.6,3.250,1.350,1.120,0.460,0.320,2008-10-20
+568,"The Elder Scrolls III: Morrowind",XB,"Bethesda Softworks","Bethesda Softworks",8.2,2.860,2.090,0.630,0.030,0.110,2002-06-06
+569,"Assassin's Creed: Brotherhood",PS3,Ubisoft,"Ubisoft Montreal",9.1,2.850,1.870,0.570,0.110,0.300,2010-11-16
+570,F-Zero,SNES,Nintendo,"Nintendo EAD",0.0,2.850,1.370,0.510,0.890,0.070,1991-08-13
+571,"Yoshi's Story",N64,Nintendo,"Nintendo EAD",0.0,2.850,1.290,0.530,0.980,0.050,1998-03-01
+572,"Metroid Prime",GC,Nintendo,"Retro Studios",9.6,2.820,1.960,0.670,0.100,0.090,2002-11-17
+573,"Zumba Fitness 2",Wii,Majesco,"Pipeworks Software, Inc.",0.0,2.830,1.520,1.050,0.000,0.260,2011-11-15
+574,"Madden NFL 10",X360,"EA Sports","EA Tiburon",8.6,2.830,2.520,0.090,0.000,0.220,2009-08-14
+575,BioShock,X360,"2K Games","2K Australia / 2K Boston",9.6,2.830,1.650,0.850,0.050,0.280,2007-08-21
+576,"Yoshi's Island: Super Mario Advance 3",GBA,Nintendo,"Nintendo EAD",0.0,2.910,1.750,0.450,0.620,0.090,2002-09-24
+577,"WWE SmackDown! vs. Raw",PS2,THQ,Yuke's,0.0,2.830,1.320,1.080,0.040,0.390,2004-11-02
+578,"Finding Nemo",GBA,THQ,"Vicarious Visions",7.0,2.820,1.590,1.050,0.040,0.140,2003-05-10
+579,"Medal of Honor",PS3,"Electronic Arts","EA Los Angeles",7.0,2.820,1.280,1.040,0.070,0.430,2010-10-12
+580,"Diablo III: Ultimate Evil Edition",PS4,"Blizzard Entertainment","Blizzard Entertainment",0.0,2.820,0.830,1.480,0.080,0.440,2014-08-19
+581,"The Legend of Zelda: A Link to the Past",GBA,Nintendo,"Flagship Co., Ltd. / Nintendo EAD",9.6,2.700,1.750,0.520,0.330,0.100,2002-12-03
+582,"Gran Turismo (PSP)",PSN,"Sony Computer Entertainment","Polyphony Digital",7.8,2.820,0.430,0.910,0.310,1.160,2009-10-01
+583,"Need for Speed: Hot Pursuit",PS3,"Electronic Arts","Criterion Games",8.9,2.810,1.050,1.240,0.030,0.490,2010-11-16
+584,"Imagine: Fashion Designer",DS,Ubisoft,"Virtual Toys / Lexis Numerique",3.0,2.810,1.320,1.190,0.000,0.300,2007-10-23
+585,"Killzone 3",PS3,"Sony Computer Entertainment","Guerrilla Games",8.2,2.810,1.460,0.870,0.090,0.380,2011-02-22
+586,"Dragon Quest V: Tenkuu no Hanayome",SNES,Enix,ChunSoft,0.0,2.790,0.000,0.000,2.780,0.010,1992-09-27
+587,"Madden NFL 07",PS2,"EA Sports","EA Tiburon",8.5,4.490,3.630,0.240,0.010,0.610,2006-08-22
+588,"Hot Shots Golf",PS,"Sony Computer Entertainment","Camelot Software Planning",0.0,2.790,0.290,0.200,2.130,0.180,1998-05-05
+589,"Skylanders: Spyro's Adventure",Wii,Activision,"Toys for Bob",8.0,2.790,1.350,1.150,0.000,0.300,2011-10-16
+590,"A Bug's Life",PS,"Sony Computer Entertainment","Traveller's Tales",3.6,2.790,1.960,0.720,0.000,0.110,1998-10-31
+591,"WWF SmackDown! Just Bring It",PS2,THQ,Yuke's,0.0,2.790,1.190,1.150,0.040,0.410,2001-11-18
+592,"Mortal Kombat Trilogy",PS,"Midway Games","Avalanche Software",0.0,2.790,1.980,0.700,0.000,0.110,1996-09-01
+593,"NBA Street",PS2,"EA Sports BIG",NuFX,0.0,2.790,2.190,0.220,0.000,0.380,2001-06-18
+594,"Jak II",PS2,"Sony Computer Entertainment","Naughty Dog",0.0,2.780,1.680,0.740,0.000,0.360,2003-10-14
+595,"The Sims",PS2,"Electronic Arts","Edge of Reality",0.0,2.770,1.410,1.120,0.000,0.240,2003-01-12
+596,"Star Wars: The Force Unleashed",X360,LucasArts,LucasArts,7.1,2.770,1.740,0.780,0.000,0.260,2008-09-16
+597,"Saints Row: The Third",X360,THQ,"Volition Inc.",8.3,2.770,1.260,1.140,0.070,0.300,2011-11-15
+598,"Tekken 7",PS4,"Namco Bandai Games","Namco Bandai Games",0.0,1.700,0.600,0.720,0.120,0.260,2017-06-02
+599,"Missile Command",2600,Atari,Atari,0.0,2.760,2.560,0.170,0.000,0.030,1981-01-01
+600,"Battlefield 3",PC,"Electronic Arts",Dice,8.9,2.760,0.890,1.440,0.000,0.430,2011-10-25
+601,"Resident Evil",PS,Capcom,Capcom,8.6,5.050,2.050,1.160,1.110,0.730,1996-03-30
+602,"Need for Speed: Most Wanted (2012)",PS3,"Electronic Arts","Criterion Games",0.0,2.740,0.710,1.520,0.060,0.450,2012-10-30
+603,"Tetris DS",DS,Nintendo,Nintendo,8.5,2.110,0.630,0.050,1.350,0.080,2006-03-20
+604,"L.A. Noire",X360,"Rockstar Games","Team Bondi",9.1,2.730,1.550,0.920,0.020,0.240,2011-11-15
+605,Metroid,NES,Nintendo,"Nintendo R&D1",0.0,2.730,1.330,0.310,1.040,0.050,1987-08-15
+606,"Far Cry: Primal",PS4,Ubisoft,"Ubisoft Montreal",7.2,2.730,0.630,1.610,0.070,0.410,2016-02-23
+607,Overwatch,XOne,"Blizzard Entertainment","Blizzard Entertainment",8.7,2.720,1.630,0.840,0.000,0.250,2016-05-24
+608,"Need for Speed (2015)",PS4,"Electronic Arts","Ghost Games",7.0,2.720,0.590,1.660,0.060,0.410,2015-11-03
+609,"Madden NFL 13",PS3,"EA Sports","EA Tiburon",8.3,2.710,2.120,0.240,0.000,0.360,2012-08-28
+610,"Skate 3",X360,"EA Sports","EA Black Box",8.3,2.710,1.470,0.990,0.000,0.250,2010-05-11
+611,"Tom Clancy's Rainbow Six: Siege",XOne,Ubisoft,"Ubisoft Montreal",0.0,2.710,1.620,0.840,0.000,0.250,2015-12-01
+612,"World Soccer Winning Eleven 7 International",PS2,Konami,"Konami Computer Entertainment Tokyo",9.2,2.900,0.080,1.240,1.130,0.450,2004-02-17
+613,"Madden NFL 12",X360,"EA Sports","EA Tiburon",7.8,2.700,2.430,0.110,0.000,0.160,2011-08-30
+614,"Mario Party",N64,Nintendo,"Hudson Soft",7.6,2.700,1.250,0.530,0.870,0.050,1999-02-08
+615,"World of Warcraft: Mists of Pandaria",PC,"Blizzard Entertainment","Blizzard Entertainment",0.0,1.810,0.840,0.760,0.000,0.200,2012-09-25
+616,"Call of Duty 3",X360,Activision,Treyarch,8.0,2.700,1.490,0.920,0.020,0.270,2006-11-07
+617,"LEGO Star Wars II: The Original Trilogy",PS2,LucasArts,"Traveller's Tales",8.4,2.690,1.850,0.640,0.010,0.190,2006-09-12
+618,"Madden NFL 11",X360,"EA Sports","EA Tiburon",8.3,2.690,2.380,0.120,0.000,0.190,2010-08-10
+619,"Burnout 3: Takedown",PS2,"Electronic Arts","Criterion Games",9.3,2.680,1.230,1.110,0.000,0.340,2004-09-07
+620,"Dragon Ball: Xenoverse 2",PS4,"Namco Bandai Games","Dimps Corporation",7.1,1.500,0.540,0.590,0.140,0.230,2016-10-25
+621,"Mortal Kombat",GEN,"Arena Entertainment","Probe Entertainment Limited",0.0,2.670,1.950,0.630,0.000,0.090,1993-09-13
+622,"Call of Duty 2: Big Red One",PS2,Activision,Treyarch,8.5,2.670,1.480,0.920,0.010,0.260,2005-11-01
+623,"Medal of Honor",PS,"Electronic Arts","DreamWorks Interactive",9.3,2.670,1.440,1.090,0.000,0.140,1999-11-11
+624,"Guitar Hero: World Tour",X360,Activision,"Neversoft Entertainment",8.6,2.660,1.780,0.640,0.000,0.250,2008-10-26
+625,"WWE SmackDown! Shut Your Mouth",PS2,THQ,Yuke's,0.0,2.660,1.320,1.290,0.040,0.000,2002-10-31
+626,"Final Fantasy XIII-2",PS3,"Square Enix","Square Enix",0.0,2.660,0.780,0.750,0.890,0.230,2012-01-31
+627,"Medal of Honor Heroes",PSP,"Electronic Arts","Team Fusion",6.7,2.660,0.860,1.110,0.010,0.670,2006-10-20
+628,"Hannah Montana",DS,"Buena Vista","DC Studios",6.5,2.650,1.590,0.800,0.000,0.260,2006-10-10
+629,"Need for Speed: Shift",PS3,"Electronic Arts","Slightly Mad Studios",8.2,2.650,0.690,1.400,0.040,0.520,2009-09-15
+630,"Tom Clancy's Splinter Cell",PS2,Ubisoft,Ubisoft,0.0,2.650,1.150,1.110,0.000,0.400,2003-04-08
+631,"Donkey Kong Country: Tropical Freeze",NS,Nintendo,"Retro Studios",9.1,1.690,0.710,0.610,0.260,0.120,2018-05-04
+632,"Mario & Luigi: Dream Team",3DS,Nintendo,"AlphaDream Corporation",8.0,2.330,0.950,0.750,0.470,0.160,2013-08-11
+633,"Star Wars: Shadows of the Empire",N64,Nintendo,LucasArts,0.0,2.650,2.000,0.500,0.120,0.030,1996-12-03
+634,"Super Mario Bros. 2 (FDS)",NES,Nintendo,"Nintendo EAD",0.0,2.650,0.000,0.000,2.650,0.000,1986-06-03
+635,"Ace Combat 04: Shattered Skies",PS2,Namco,Namco,8.9,3.170,2.060,0.560,0.380,0.170,2001-11-01
+636,"Medal of Honor",X360,"Electronic Arts","EA Los Angeles",7.3,2.640,1.580,0.800,0.040,0.220,2010-10-12
+637,"NBA 2K12",X360,"2K Sports","Visual Concepts",9.1,2.640,2.320,0.140,0.010,0.170,2011-10-04
+638,"Midnight Club: Street Racing",PS2,"Rockstar Games","Angel Studios",0.0,2.630,2.000,0.470,0.020,0.140,2000-10-25
+639,"NBA 2K13",PS3,"2K Sports","Visual Concepts",8.9,2.630,1.740,0.460,0.050,0.390,2012-10-02
+640,"NBA 2K19",PS4,"2K Sports","Visual Concepts",0.0,2.630,1.690,0.440,0.030,0.470,2018-09-11
+641,"ESPN NFL 2K5",PS2,Sega,"Visual Concepts",0.0,2.620,2.150,0.120,0.000,0.360,2004-07-20
+642,"Madden NFL 18",PS4,"EA Sports","EA Tiburon",8.2,2.620,1.730,0.420,0.000,0.470,2017-08-25
+643,"FIFA Soccer 10",X360,"EA Sports","EA Canada",8.9,2.620,0.600,1.790,0.010,0.230,2009-10-20
+644,LittleBigPlanet,PSP,"Sony Computer Entertainment","SCEE Cambridge",8.8,2.610,0.650,1.270,0.010,0.680,2009-11-17
+645,"Kirby: Triple Deluxe",3DS,Nintendo,"HAL Laboratory",7.8,2.050,0.740,0.390,0.800,0.110,2014-05-02
+646,"Harry Potter and the Chamber of Secrets",PS2,"Electronic Arts","Eurocom Entertainment Software",0.0,2.610,0.900,1.220,0.040,0.440,2002-11-14
+647,"Mario Strikers Charged",Wii,Nintendo,"Next Level Games",7.7,2.590,1.050,1.050,0.240,0.240,2007-07-30
+648,"Monster Hunter 3G",3DS,Capcom,Capcom,7.6,2.820,0.460,0.320,1.960,0.080,2013-03-19
+649,"NieR: Automata",PS4,"Square Enix",PlatinumGames,0.0,1.710,0.560,0.510,0.420,0.220,2017-03-07
+650,"Streets of Rage",GEN,Sega,Sega,0.0,2.600,1.860,0.550,0.110,0.080,1990-12-31
+651,"Grand Theft Auto: Episodes from Liberty City",X360,"Rockstar Games","Rockstar North",9.0,2.600,1.080,1.220,0.030,0.270,2009-10-29
+652,"LEGO Star Wars: The Complete Saga",X360,LucasArts,"Traveller's Tales",0.0,2.590,1.530,0.830,0.000,0.240,2007-11-06
+653,"Tom Clancy's The Division",XOne,Ubisoft,"Massive Entertainment",0.0,2.590,1.540,0.820,0.000,0.240,2016-03-08
+654,"FIFA Soccer 09",PS3,"Electronic Arts","EA Canada",8.6,2.590,0.490,1.630,0.040,0.430,2008-10-14
+655,"NBA Live 2005",PS2,"EA Sports","EA Canada",0.0,2.590,2.030,0.210,0.000,0.350,2004-09-28
+656,"WWE SmackDown vs. RAW 2007",PS2,THQ,Yuke's,8.0,2.580,1.400,0.880,0.030,0.260,2006-11-14
+657,"Skylanders Giants",Wii,Activision,"Toys for Bob",0.0,2.580,1.490,0.860,0.000,0.230,2012-10-21
+658,"Madden NFL 08",PS2,"EA Sports","EA Tiburon",0.0,2.570,2.140,0.080,0.000,0.350,2007-08-14
+659,"Clubhouse Games",DS,Nintendo,Agenda,8.3,3.450,0.590,1.800,0.730,0.340,2006-10-09
+660,"NBA 2K14",X360,"2K Sports","Visual Concepts",0.0,2.570,2.110,0.190,0.000,0.270,2013-10-11
+661,"Hot Shots Golf",PS,"Sony Computer Entertainment","Camelot Software Planning",0.0,2.560,0.260,0.170,2.130,0.000,1998-05-05
+662,"Dragon Age: Origins",X360,"Electronic Arts","BioWare Edmonton",8.5,2.560,1.760,0.550,0.030,0.220,2009-11-03
+663,"FIFA 16",PS3,"EA Sports","EA Canada",9.0,2.550,0.430,1.680,0.050,0.380,2015-09-22
+664,"Pokémon Stadium 2",N64,Nintendo,"HAL Laboratory",7.9,2.730,1.020,0.360,1.130,0.230,2001-03-28
+665,"Madden NFL 09",X360,"EA Sports","EA Tiburon",8.5,2.540,2.210,0.120,0.000,0.200,2008-08-12
+666,"Crazy Taxi",PS2,"Acclaim Entertainment",Hitmaker,8.2,2.520,1.130,1.120,0.060,0.220,2001-05-14
+667,"Tomb Raider (2013)",PS3,"Square Enix","Crystal Dynamics",8.9,2.510,0.600,1.450,0.080,0.380,2013-03-05
+668,"Midnight Club: Los Angeles",PS3,"Rockstar Games","Rockstar San Diego",8.3,2.500,1.590,0.540,0.050,0.330,2008-10-20
+669,"PES 2009: Pro Evolution Soccer",PS2,Konami,Konami,0.0,2.500,0.130,0.070,0.260,2.050,2008-11-11
+670,"Marvel: Ultimate Alliance",X360,Activision,"Raven Software",8.3,2.500,2.290,0.020,0.000,0.190,2006-10-24
+671,"Crisis Core: Final Fantasy VII",PSP,"Square Enix","Square Enix",8.1,3.190,1.350,0.600,0.800,0.440,2008-03-25
+672,"Dance Central",X360,"MTV Games","Harmonix Music Systems",8.4,3.180,2.150,0.760,0.010,0.260,2010-11-04
+673,Diablo,PC,"Blizzard Entertainment","Blizzard Entertainment",8.7,1.590,0.010,1.580,0.000,0.000,1996-11-30
+674,"Dragon Ball Z: Budokai 3",PS2,Atari,"Dimps Corporation",0.0,1.940,1.090,0.150,0.650,0.040,2004-11-16
+675,"Dragon Quest II",NES,Enix,ChunSoft,0.0,2.560,0.150,0.000,2.410,0.000,1990-09-01
+676,"Final Fantasy Tactics",PS,"Sony Computer Entertainment",SquareSoft,8.8,2.450,0.930,0.120,1.340,0.060,1998-01-28
+677,"Forza Horizon 3",XOne,"Microsoft Studios","Playground Games",9.0,3.930,1.640,1.960,0.020,0.320,2016-09-27
+678,"Warcraft III: The Frozen Throne",PC,"Blizzard Entertainment","Blizzard Entertainment",9.2,1.540,0.580,0.870,0.000,0.090,2003-07-01
+679,"Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City",XB,"Rockstar Games","Rockstar North",9.8,2.490,1.840,0.560,0.000,0.090,2003-10-31
+680,"NBA 2K15",PS4,"2K Sports","Visual Concepts",0.0,2.490,1.490,0.550,0.010,0.440,2014-10-07
+681,"Game Party",Wii,"Midway Games","JGI Entertainment",2.6,2.490,1.470,0.770,0.000,0.240,2007-11-27
+682,"Mortal Kombat: Deadly Alliance",PS2,"Midway Games",Midway,8.2,2.490,1.810,0.520,0.000,0.150,2002-11-16
+683,"Dark Souls III",PS4,"Namco Bandai Games","From Software",0.0,2.420,1.000,0.630,0.440,0.340,2016-04-12
+684,"Mario Party 2",N64,Nintendo,"Hudson Soft",0.0,2.500,1.280,0.140,1.080,0.010,2000-01-24
+685,"Saints Row: The Third",PS3,THQ,"Volition Inc.",8.3,2.480,0.860,1.060,0.180,0.370,2011-11-15
+686,"Tomb Raider: The Last Revelation",PS,"Eidos Interactive","Core Design Ltd.",0.0,2.480,1.150,1.140,0.060,0.130,1999-11-22
+687,"Assassin's Creed Origins",XOne,Ubisoft,"Ubisoft Montreal",0.0,2.470,1.340,0.920,0.000,0.220,2017-10-27
+688,Pure,X360,"Disney Interactive Studios","Black Rock Studio",8.3,2.470,1.380,0.840,0.000,0.250,2008-09-16
+689,"Rock Band",X360,"MTV Games","Harmonix Music Systems",9.1,2.470,1.930,0.330,0.000,0.210,2007-11-20
+690,Minecraft,PSV,"Sony Computer Entertainment America","4J Studios",0.0,2.470,0.220,0.730,1.250,0.270,2014-11-11
+691,"Paper Mario: Sticker Star",3DS,Nintendo,"Intelligent Systems",0.0,2.410,1.120,0.490,0.640,0.150,2012-11-11
+692,"WarioWare Touched!",DS,Nintendo,"Intelligent Systems",7.8,2.300,0.510,0.450,1.210,0.130,2005-02-14
+693,"Resistance 2",PS3,"Sony Computer Entertainment","Insomniac Games",8.5,2.470,1.150,0.840,0.100,0.380,2008-11-04
+694,"Madden NFL 16",XOne,"EA Sports","EA Tiburon",8.4,2.470,2.130,0.080,0.000,0.260,2015-08-25
+695,"Mario Party 4",GC,Nintendo,"Hudson Soft",7.0,2.470,1.130,0.360,0.920,0.070,2002-10-21
+696,"Dying Light",PS4,"Warner Bros. Interactive",Techland,0.0,2.450,1.180,0.740,0.130,0.400,2015-01-27
+697,"LEGO Harry Potter: Years 1-4",Wii,"Warner Bros. Interactive","Traveller's Tales",7.9,2.450,1.290,0.940,0.000,0.220,2010-06-29
+698,"uDraw Studio",Wii,THQ,"Pipeworks Software, Inc.",0.0,2.440,1.650,0.580,0.000,0.210,2010-11-14
+699,"Madden NFL 17",XOne,"EA Sports","EA Tiburon",8.1,2.440,2.140,0.040,0.000,0.260,2016-08-23
+700,"Twisted Metal 2",PS,"Sony Computer Entertainment",SingleTrac,8.7,2.440,2.120,0.250,0.000,0.070,1996-10-31
+701,"The Sims: Bustin' Out",PS2,"Electronic Arts",Maxis,0.0,2.430,1.070,1.190,0.000,0.180,2003-12-15
+702,"Need for Speed Carbon: Own the City",PSP,"Electronic Arts","EA Black Box",7.4,2.420,0.870,0.970,0.000,0.580,2006-10-31
+703,"Ice Hockey",NES,Nintendo,Nintendo,0.0,2.420,1.270,0.320,0.780,0.050,1988-03-01
+704,"Sonic Adventure",DC,Sega,"Sonic Team",8.9,2.420,1.260,0.610,0.460,0.080,1999-09-09
+705,"Tom Clancy's Rainbow Six: Vegas 2",X360,Ubisoft,"Ubisoft Montreal",8.2,2.420,1.560,0.610,0.020,0.230,2008-03-18
+706,"God of War Collection",PS3,"Sony Computer Entertainment","Bluepoint Games",9.2,2.600,1.700,0.450,0.060,0.400,2009-11-17
+707,"Kinect: Disneyland Adventures",X360,"Microsoft Studios","Frontier Developments",8.5,2.410,1.730,0.430,0.020,0.230,2011-11-15
+708,"Pro Evolution Soccer 2011",PS3,Konami,Konami,6.0,2.410,0.290,1.180,0.540,0.410,2010-10-05
+709,"ATV Offroad Fury",PS2,"Sony Computer Entertainment","Rainbow Studios",8.4,2.410,2.070,0.260,0.000,0.080,2001-02-05
+710,"Pokémon Colosseum",GC,Nintendo,"Genius Sonority Inc.",7.0,2.540,1.210,0.570,0.700,0.070,2004-03-22
+711,"NBA 2K16",XOne,"2K Sports","Visual Concepts",8.3,2.410,2.010,0.150,0.000,0.250,2015-09-29
+712,"Halo: Combat Evolved Anniversary",X360,"Microsoft Studios","343 Industries",8.0,2.410,1.440,0.710,0.040,0.220,2011-11-15
+713,"Need for Speed: ProStreet",PS2,"Electronic Arts","EA Black Box",0.0,2.410,0.690,0.000,0.040,1.680,2007-11-13
+714,"Tetris Plus",PS,Jaleco,"Atlus Co.",0.0,2.400,2.100,0.240,0.000,0.070,1996-10-18
+715,"Forza Motorsport 5",XOne,"Microsoft Studios","Turn 10 Studios",0.0,2.400,1.280,0.900,0.010,0.210,2013-11-22
+716,"Midnight Club: Los Angeles",X360,"Rockstar Games","Rockstar San Diego",8.0,2.400,1.720,0.450,0.010,0.220,2008-10-20
+717,"Command & Conquer: Tiberian Sun",PC,"Westwood Studios","Westwood Studios",0.0,1.550,1.550,0.000,0.000,0.000,1999-08-24
+718,"Dino Crisis",PS,Capcom,"Capcom Production Studio 4",8.9,2.410,0.810,0.760,0.700,0.140,1999-08-31
+719,"Final Fantasy V",SNES,Square,SquareSoft,7.5,2.450,0.000,0.000,2.430,0.020,1992-12-06
+720,"Monster Hunter Freedom 2",PSP,Capcom,Capcom,7.6,2.580,0.370,0.270,1.750,0.180,2007-08-29
+721,"Naruto Shippuden: Ultimate Ninja Storm 4",PS4,"Namco Bandai Games",CyberConnect2,0.0,1.540,0.710,0.470,0.120,0.240,2016-02-09
+722,"Pro Wrestling",NES,Nintendo,"TRY Corporation",0.0,2.400,0.770,0.180,1.420,0.030,1987-03-01
+723,"Theme Hospital",PC,"Electronic Arts","Bullfrog Productions",5.5,2.400,2.300,0.100,0.000,0.000,1997-03-31
+724,"Madden NFL 11",PS3,"EA Sports","EA Tiburon",8.4,2.400,2.050,0.150,0.000,0.200,2010-08-10
+725,"Batman: Arkham Origins",PS3,"Warner Bros. Interactive Entertainment","Warner Bros. Interactive Entertainment",0.0,2.400,1.080,0.880,0.040,0.400,2013-10-25
+726,"Frogger's Adventures: Temple of the Frog",GBA,Konami,Konami,6.7,2.390,2.150,0.180,0.000,0.070,2001-10-24
+727,"Zumba Fitness",X360,Majesco,"Pipeworks Software, Inc.",0.0,2.390,1.740,0.450,0.000,0.200,2010-11-18
+728,"Mario & Sonic at the London 2012 Olympic Games",Wii,Sega,Sega,6.8,3.720,1.120,1.900,0.270,0.430,2011-11-15
+729,Monopoly,PC,"Hasbro Interactive",Unknown,0.0,2.390,1.490,0.810,0.000,0.100,1995-01-01
+730,"Mortal Kombat II (US & Others sales)",GEN,"Acclaim Entertainment","Probe Entertainment Limited",0.0,2.390,1.780,0.530,0.000,0.080,1994-01-01
+731,"Dead Island",X360,"Deep Silver",Techland,7.0,2.380,1.480,0.700,0.000,0.210,2011-09-06
+732,ARMS,NS,Nintendo,"Nintendo EPD",7.9,1.990,0.900,0.480,0.470,0.140,2017-06-16
+733,"WCW/nWo Revenge",N64,THQ,"Aki Corp.",0.0,2.380,1.940,0.390,0.030,0.020,1998-10-26
+734,"Ratchet & Clank (2016)",PS4,"Sony Interactive Entertainment","Insomniac Games",0.0,2.380,0.970,0.970,0.060,0.390,2016-04-12
+735,"Yu-Gi-Oh! The Duelists of the Roses",PS2,Konami,Konami,0.0,2.380,1.160,0.910,0.000,0.300,2003-02-16
+736,"Madden NFL 08",X360,"EA Sports","EA Tiburon",8.7,2.370,2.180,0.010,0.000,0.180,2007-08-14
+737,"The Incredibles",PS2,THQ,"Heavy Iron Studios",5.9,2.370,0.960,1.080,0.040,0.300,2004-10-31
+738,"Tony Hawk's Underground 2",PS2,Activision,"Neversoft Entertainment",0.0,2.370,1.250,0.860,0.010,0.260,2004-10-04
+739,"Yokai Watch Blasters: Red Cat Corps / White Dog Squad",3DS,Nintendo,"Level 5",0.0,2.440,0.070,0.050,2.300,0.010,2018-09-07
+740,"Madden NFL 10",PS3,"EA Sports","EA Tiburon",8.5,2.370,2.030,0.130,0.000,0.210,2009-08-14
+741,"Uncharted: The Lost Legacy",PS4,"Sony Interactive Entertainment","Naughty Dog",0.0,2.370,0.580,1.380,0.040,0.360,2017-08-22
+742,"Sonic's Ultimate Genesis Collection",PS3,Sega,"Backbone Entertainment",8.1,2.360,1.390,0.640,0.000,0.330,2009-02-10
+743,"Kirby's Dream Land 2",GB,Nintendo,"HAL Laboratory",0.0,2.360,0.690,0.140,1.480,0.050,1995-05-01
+744,"Pokémon Mystery Dungeon: Red Rescue Team",GBA,Nintendo,ChunSoft,0.0,2.060,0.710,0.520,0.740,0.080,2006-09-18
+745,"Destiny 2",XOne,Activision,Bungie,0.0,2.350,1.660,0.470,0.000,0.230,2017-09-06
+746,"Donkey Kong Land 2",GB,Nintendo,"Rare Ltd.",0.0,2.350,1.390,0.480,0.400,0.080,1996-09-01
+747,"Dragon Quest Monsters",GB,"Eidos Interactive",TOSE,0.0,2.350,0.000,0.000,2.340,0.010,1999-12-31
+748,"Pokémon Ranger: Shadows of Almia",DS,Nintendo,"HAL Laboratory",6.7,2.280,0.940,0.540,0.620,0.180,2008-11-10
+749,"The Legend of Zelda: The Wind Waker",WiiU,Nintendo,"Nintendo EAD",9.3,2.080,1.040,0.730,0.150,0.170,2013-10-04
+750,"WarioWare: Smooth Moves",Wii,Nintendo,"Intelligent Systems",8.2,2.890,0.860,1.050,0.730,0.260,2007-01-15
+751,"LEGO Indiana Jones: The Original Adventures",Wii,LucasArts,"Traveller's Tales",7.8,2.350,1.510,0.620,0.000,0.220,2008-06-03
+752,"Lego Marvel Super Heroes",X360,"Warner Bros. Interactive Entertainment","Traveller's Tales",0.0,2.340,1.260,0.870,0.000,0.210,2013-10-22
+753,"WWE SmackDown vs Raw 2008",PS2,THQ,"Yuke's Media Creations",0.0,2.340,0.920,0.000,0.010,1.410,2007-11-13
+754,"Dragon Age: Inquisition",PS4,"Electronic Arts","BioWare Edmonton",0.0,2.340,1.070,0.800,0.080,0.380,2014-11-18
+755,"Kinect Sports: Season Two",X360,"Microsoft Studios","Rare Ltd.",6.6,2.330,1.380,0.720,0.020,0.210,2011-10-25
+756,"Madden NFL 25",X360,"EA Sports","EA Tiburon",7.8,2.330,2.020,0.070,0.000,0.250,2013-08-27
+757,"Art Academy",DS,Nintendo,"Headstrong Games",6.8,2.520,0.260,1.660,0.330,0.270,2010-10-25
+758,"My Fitness Coach",Wii,Ubisoft,Ubisoft,7.1,2.320,1.180,0.900,0.000,0.240,2008-12-02
+759,"Assassin's Creed IV: Black Flag",XOne,Ubisoft,"Ubisoft Montreal",8.3,2.320,1.510,0.590,0.000,0.220,2013-11-22
+760,"Mario Super Sluggers",Wii,Nintendo,"Bandai Namco Games / NOW Production",6.7,1.890,1.480,0.000,0.290,0.130,2008-08-25
+761,"Mario Tennis",N64,Nintendo,"Camelot Software Planning",8.8,2.320,0.780,0.400,1.060,0.070,2000-08-28
+762,"Grand Theft Auto",PS,"Take-Two Interactive","DMA Design",6.0,2.320,0.790,1.350,0.040,0.140,1998-06-30
+763,"James Bond 007: Everything or Nothing",PS2,"Electronic Arts","EA Redwood Shores",0.0,2.310,0.850,1.060,0.090,0.320,2004-02-17
+764,"Need for Speed: High Stakes",PS,"Electronic Arts","EA Canada",0.0,2.310,1.580,0.640,0.000,0.090,1999-03-01
+765,"Fire Emblem: Awakening",3DS,Nintendo,"Intelligent Systems",9.0,2.100,0.900,0.500,0.560,0.140,2013-02-04
+766,"Mario Paint",SNES,Nintendo,"Intelligent Systems",0.0,2.750,1.430,0.540,0.710,0.070,1992-05-05
+767,"The Sims 3",X360,"Electronic Arts","The Sims Studio",8.0,2.310,1.280,0.820,0.000,0.200,2010-10-26
+768,"Cool Boarders 3",PS,"989 Studios","Idol Minds Digital Entertainment",0.0,2.310,1.650,0.460,0.100,0.100,1998-10-28
+769,"LEGO Star Wars: The Complete Saga",PS3,LucasArts,"Traveller's Tales",8.0,2.310,1.020,0.930,0.000,0.360,2007-11-06
+770,"Chrono Trigger",SNES,Square,SquareSoft,8.8,2.310,0.280,0.000,2.020,0.010,1995-09-27
+771,Daxter,PSP,"Sony Computer Entertainment","Ready at Dawn",8.6,4.230,2.450,1.020,0.000,0.770,2006-03-14
+772,"Final Fantasy III",DS,"Square Enix","Matrix Software",7.4,2.080,0.890,0.040,1.070,0.090,2006-11-14
+773,"Resident Evil 4",PS2,Capcom,"Capcom Production Studio 4",9.6,3.620,2.080,0.830,0.460,0.250,2005-10-25
+774,"LEGO Harry Potter: Years 1-4",DS,"Warner Bros. Interactive","Traveller's Tales",8.0,2.290,1.070,1.000,0.000,0.220,2010-06-29
+775,"Dead Island",PS3,"Deep Silver",Techland,6.7,2.290,1.080,0.740,0.150,0.320,2011-09-06
+776,"Tomb Raider II",PC,"Eidos Interactive","Core Design Ltd.",8.2,2.290,0.910,1.250,0.000,0.130,1997-10-31
+777,"Need for Speed Underground 2",XB,"Electronic Arts","EA Black Box",0.0,2.280,1.380,0.800,0.000,0.100,2004-11-15
+778,"Pro Evolution Soccer 2010",PS3,Konami,Konami,7.0,2.280,0.300,1.270,0.460,0.260,2009-11-03
+779,"Mario Bros.",NES,Nintendo,"Nintendo R&D1",0.0,2.280,0.510,0.120,1.630,0.020,1986-06-01
+780,"FIFA Soccer 09",PS2,"Electronic Arts","EA Canada",0.0,2.280,0.380,0.070,0.010,1.820,2008-10-14
+781,"Star Wars Battlefront II (US sales)",PS2,LucasArts,"Pandemic Studios",0.0,2.270,2.180,0.070,0.000,0.020,2005-11-01
+782,"Animal Crossing",GC,Nintendo,"Nintendo EAD",8.3,3.150,1.920,0.160,0.990,0.090,2002-09-15
+783,"Classic NES Series: Super Mario Bros.",GBA,Nintendo,"Nintendo EAD",8.3,2.220,0.610,0.210,1.390,0.000,2004-06-02
+784,"Kirby Squeak Squad",DS,Nintendo,"HAL Laboratory, Flagship",7.3,1.940,0.780,0.030,1.050,0.080,2006-12-06
+785,"Madden NFL 12",PS3,"EA Sports","EA Tiburon",7.8,2.270,1.930,0.150,0.000,0.180,2011-08-30
+786,"Borderlands 2",PS3,"2K Games","Gearbox Software",0.0,2.270,1.060,0.750,0.100,0.360,2012-09-18
+787,"No Man's Sky",PS4,"Hello Games","Hello Games",6.8,2.260,0.890,0.970,0.040,0.370,2016-08-09
+788,"Mario Party 10",WiiU,Nintendo,"Nd Cube Co., Ltd.",6.3,2.000,0.820,0.750,0.290,0.140,2015-03-20
+789,"Cool Boarders 2",PS,"Sony Computer Entertainment","UEP Systems",0.0,2.250,1.520,0.460,0.200,0.080,1997-10-31
+790,"Dynasty Warriors 4",PS2,KOEI,"Omega Force",0.0,2.110,0.630,0.210,1.130,0.130,2003-03-25
+791,"Guitar Hero III: Legends of Rock",PS3,RedOctane,Neversoft,8.2,2.250,1.400,0.530,0.020,0.300,2007-10-28
+792,"Just Dance Kids",Wii,Ubisoft,"Ubisoft Paris",0.0,2.250,1.520,0.540,0.000,0.190,2010-11-09
+793,"Madden NFL 15",PS4,"EA Sports","EA Tiburon",0.0,2.250,1.580,0.250,0.000,0.410,2014-08-26
+794,"Call of Duty 3",Wii,Activision,"EXAKT Entertainment",6.8,2.240,1.170,0.840,0.000,0.230,2006-11-14
+795,"Sonic Advance",GBA,Sega,"Dimps Corporation / Sonic Team",0.0,2.240,1.190,0.710,0.220,0.130,2002-02-04
+796,"Super Mario All-Stars: Limited Edition",Wii,Nintendo,"Nintendo EAD",7.2,2.620,1.040,0.520,0.920,0.140,2010-12-12
+797,"Spyro: Season of Ice",GBA,"Vivendi Games","Digital Eclipse",0.0,2.230,1.290,0.830,0.000,0.110,2001-10-29
+798,"Air Combat",PS,Namco,Namco,7.0,1.830,0.920,0.330,0.520,0.050,1995-06-29
+799,"Teenage Mutant Ninja Turtles II: The Arcade Game",NES,"Ultra Games",Konami,0.0,2.230,1.740,0.250,0.210,0.030,1990-12-01
+800,"Dance Dance Revolution X2",PS2,Konami,"Konami Computer Entertainment Tokyo",0.0,2.230,1.090,0.850,0.000,0.280,2009-10-27
+801,"Battlefield V",PS4,"Electronic Arts","EA DICE",0.0,2.220,0.800,0.930,0.160,0.340,2018-11-20
+802,"Prince of Persia: The Sands of Time",PS2,Ubisoft,"Ubisoft Montreal",9.0,2.220,0.880,1.030,0.000,0.310,2003-11-06
+803,"FIFA 19",XOne,"Electronic Arts","EA Sports",0.0,2.220,0.560,1.500,0.000,0.160,2018-09-28
+804,"Star Wars: The Force Unleashed",PS3,LucasArts,LucasArts,6.8,2.220,1.010,0.860,0.000,0.350,2008-09-16
+805,"The Legend of Zelda: Link's Awakening DX",GBC,Nintendo,"Nintendo EAD",9.4,2.220,1.000,0.630,0.450,0.130,1998-10-31
+806,"NBA 2K14",PS3,"2K Sports","Visual Concepts",0.0,2.220,1.450,0.340,0.040,0.390,2013-10-01
+807,"Madden NFL 19",PS4,"EA Sports","EA Tiburon",0.0,2.210,1.630,0.180,0.000,0.410,2018-08-10
+808,"Yokai Watch 3: Sushi / Tempura / Sukiyaki",3DS,"Level 5","Level 5",0.0,1.530,0.000,0.030,1.500,0.000,2016-07-16
+809,"Guitar Hero II",X360,RedOctane,"Harmonix Music Systems",9.2,2.210,2.010,0.020,0.000,0.170,2007-04-03
+810,"LEGO Indiana Jones: The Original Adventures",DS,LucasArts,"Traveller's Tales",0.0,2.200,1.400,0.600,0.000,0.210,2008-06-03
+811,"Need for Speed: Hot Pursuit",X360,"Electronic Arts","Criterion Games",8.8,2.200,1.030,0.960,0.000,0.210,2010-11-16
+812,Frogger,2600,"Parker Bros.",Konami,0.0,2.200,2.060,0.120,0.000,0.020,1982-01-01
+813,"Rock Band 2",X360,"MTV Games","Harmonix Music Systems",9.2,2.200,1.780,0.240,0.000,0.180,2008-09-14
+814,"R.B.I. Baseball",NES,Tengen,Namco,0.0,2.200,0.150,0.000,2.050,0.000,1988-01-01
+815,"Wario Land 3",GB,Nintendo,"Nintendo R&D1",0.0,2.200,1.110,0.510,0.340,0.230,2000-05-01
+816,"Wario Land 4",GBA,Nintendo,"Nintendo R&D1",0.0,2.260,0.900,0.730,0.540,0.090,2001-11-18
+817,"BioShock 2",X360,"2K Games","2K Marin",8.6,2.200,1.450,0.540,0.020,0.200,2010-02-09
+818,"High School Musical: Makin' the Cut!",DS,"Disney Interactive Studios","Artificial Mind and Movement",7.3,2.200,1.060,0.900,0.000,0.230,2007-08-14
+819,"Final Fantasy XIII",X360,"Square Enix","Square Enix",8.1,2.190,1.300,0.670,0.010,0.210,2010-03-09
+820,"Skylanders SWAP Force",Wii,Activision,Beenox,0.0,2.190,1.230,0.770,0.000,0.190,2013-10-13
+821,"FIFA 15",XOne,"EA Sports","EA Canada",7.9,2.190,0.640,1.390,0.000,0.160,2014-09-23
+822,"Star Wars: Knights of the Old Republic",XB,LucasArts,"BioWare Corp.",9.4,2.190,1.680,0.440,0.000,0.080,2003-07-17
+823,"Donkey Kong Country",GBC,Nintendo,"Rare Ltd.",9.1,2.190,1.040,0.720,0.300,0.130,2000-11-04
+824,"Kirby's Pinball Land",GB,Nintendo,"HAL Laboratory",0.0,2.190,0.870,0.170,1.100,0.050,1993-11-28
+825,"Pro Evolution Soccer 2012",PS3,Konami,Konami,7.5,2.190,0.340,0.970,0.550,0.320,2011-09-27
+826,"Need for Speed: Payback",PS4,"Electronic Arts","Ghost Games",5.8,2.180,0.620,1.180,0.040,0.340,2017-11-10
+827,"Dragon Ball: Xenoverse",PS4,"Namco Bandai Games","Dimps Corporation",0.0,1.190,0.330,0.550,0.140,0.170,2015-02-24
+828,"Yu-Gi-Oh: Duel Monsters 4",GB,Konami,Konami,0.0,2.180,0.000,0.000,2.170,0.010,2000-12-07
+829,"ATV Offroad Fury 2",PS2,"Sony Computer Entertainment","Rainbow Studios",8.7,2.180,1.920,0.200,0.000,0.060,2002-11-09
+830,"Destiny: The Taken King",PS4,Activision,Bungie,0.0,2.180,0.970,0.800,0.050,0.360,2015-09-15
+831,"Spyro Reignited Trilogy",PS4,Activision,"Toys for Bob",0.0,2.170,0.750,1.070,0.000,0.350,2018-11-13
+832,"Dragon Ball FighterZ",PS4,"Namco Bandai Games","Arc System Works",0.0,1.460,0.610,0.510,0.120,0.230,2018-01-26
+833,"Mario Party 5",GC,Nintendo,"Hudson Soft",5.9,2.080,0.970,0.330,0.730,0.060,2003-11-10
+834,"Star Wars: Rogue Squadron",N64,LucasArts,"Factor 5",9.0,2.170,1.600,0.460,0.080,0.030,1998-11-17
+835,Tennis,NES,Nintendo,Nintendo,0.0,2.170,0.480,0.110,1.560,0.020,1985-10-18
+836,"Ratchet: Deadlocked",PS2,"Sony Computer Entertainment","Insomniac Games",0.0,1.240,0.850,0.030,0.220,0.140,2005-10-25
+837,"PlayerUnknown's Battlegrounds",XOne,"Microsoft Studios","PUBG Corporation",0.0,2.170,1.290,0.690,0.000,0.200,2017-12-12
+838,"Need for Speed Rivals",PS4,"Electronic Arts","Ghost Games",0.0,2.170,0.750,1.040,0.030,0.350,2013-11-15
+839,"PlayStation VR Worlds",PS4,"Sony Interactive Entertainment","SIE London Studio",0.0,2.160,0.360,1.400,0.090,0.320,2016-10-13
+840,"Devil May Cry",PS2,Capcom,Capcom,9.1,2.990,1.360,0.860,0.640,0.130,2001-10-16
+841,"The Sims: House Party",PC,Maxis,Maxis,0.0,2.160,1.230,0.830,0.000,0.100,2001-03-26
+842,"Your Shape featuring Jenny McCarthy",Wii,Ubisoft,Ubisoft,6.0,2.160,1.500,0.460,0.000,0.190,2009-11-24
+843,"Syphon Filter 2",PS,"989 Studios",Eidetic,0.0,2.150,1.500,0.550,0.020,0.080,2000-02-29
+844,"Battlefield: Hardline",PS4,"Electronic Arts","EA DICE",0.0,2.150,0.720,0.970,0.140,0.330,2015-03-17
+845,"Mario & Luigi: Superstar Saga",GBA,Nintendo,"AlphaDream Corporation",8.8,2.170,1.480,0.170,0.470,0.060,2003-11-17
+846,Volleyball,NES,Nintendo,"Nintendo R&D1",0.0,2.150,0.140,0.030,1.980,0.000,1987-03-01
+847,Mahjong,NES,Nintendo,Nintendo,0.0,2.140,0.010,0.000,2.130,0.000,1983-08-27
+848,"Mario & Sonic at the Olympic Games",Wii,Sega,Sega,7.2,8.000,2.570,3.870,0.660,0.900,2007-11-06
+849,"R.C. Pro-Am",NES,Nintendo,"Rare Ltd.",0.0,2.070,1.180,0.520,0.370,0.000,1988-02-01
+850,"SimCity 2000",PC,Maxis,Maxis,8.0,2.140,1.200,0.840,0.000,0.100,1993-01-01
+851,"Super Mario RPG: Legend of the Seven Stars",SNES,Nintendo,SquareSoft,0.0,2.140,0.660,0.000,1.450,0.030,1996-05-13
+852,"Call of Duty: Roads to Victory",PSP,Activision,"Amaze Entertainment",6.1,2.140,0.520,1.030,0.000,0.590,2007-03-13
+853,"Demon Attack",2600,Imagic,Imagic,0.0,2.130,1.990,0.120,0.000,0.020,1982-01-01
+854,"Dance Dance Revolution Extreme",PS2,Konami,"Konami Computer Entertainment Tokyo",0.0,2.130,1.040,0.810,0.000,0.270,2004-09-21
+855,"NBA 2K12",PS3,"2K Sports","Visual Concepts",9.0,2.130,1.620,0.270,0.050,0.180,2011-10-04
+856,Borderlands,PS3,"2K Games","Gearbox Software",8.2,2.120,1.220,0.610,0.000,0.290,2009-10-20
+857,"Mortal Kombat (2011)",X360,"Warner Bros. Interactive Entertainment","NetherRealm Studios",8.6,2.120,1.640,0.310,0.000,0.170,2011-04-19
+858,"Resistance: Fall of Man",PS3,"Sony Computer Entertainment","Insomniac Games",8.5,4.370,1.740,1.720,0.140,0.760,2006-11-14
+859,"Project Gotham Racing",XB,Microsoft,"Bizarre Creations",8.4,2.120,1.370,0.610,0.050,0.090,2001-11-14
+860,Golf,GB,Nintendo,Nintendo,0.0,2.120,0.830,0.330,0.920,0.040,1990-02-01
+861,"NBA 2K11",X360,"2K Sports","Visual Concepts",8.8,2.110,1.860,0.120,0.010,0.130,2010-10-05
+862,"Tony Hawk's Pro Skater",N64,Activision,"Edge of Reality",9.3,2.110,1.680,0.400,0.000,0.030,2000-02-29
+863,"PES 2009: Pro Evolution Soccer",PS3,Konami,Konami,7.7,2.110,0.110,1.340,0.400,0.260,2008-11-11
+864,"Need for Speed: Hot Pursuit 2",PS2,"Electronic Arts","EA Seattle",8.7,2.110,1.680,0.310,0.020,0.090,2002-10-01
+865,"Scooby-Doo! Night of 100 Frights",PS2,THQ,"Heavy Iron Studios",0.0,2.100,1.170,0.720,0.000,0.220,2002-05-20
+866,"Killzone: Shadow Fall",PS4,"Sony Computer Entertainment","Guerrilla Games",9.0,3.020,0.890,1.580,0.080,0.470,2013-11-15
+867,"Kirby: Nightmare in Dream Land",GBA,Nintendo,"HAL Laboratory",8.1,2.270,1.220,0.100,0.910,0.040,2002-12-02
+868,"Onimusha 2: Samurai's Destiny",PS2,Capcom,Capcom,8.5,2.250,0.620,0.440,1.060,0.130,2002-08-28
+869,"Battlefield 4",XOne,"Electronic Arts","EA DICE",0.0,2.090,1.260,0.650,0.000,0.190,2013-11-22
+870,"Need for Speed: Most Wanted 5-1-0",PSP,"Electronic Arts","EA Black Box",7.4,2.090,1.770,0.130,0.020,0.170,2005-11-15
+871,"Just Dance 2015",Wii,Ubisoft,"Ubisoft Paris",0.0,2.090,1.000,0.910,0.000,0.180,2014-10-21
+872,"Finding Nemo",PS2,THQ,"Traveller's Tales",0.0,2.090,1.260,0.600,0.050,0.180,2003-05-09
+873,"Madden NFL 15",X360,"EA Sports","EA Tiburon",0.0,2.090,1.800,0.060,0.000,0.220,2014-08-26
+874,"Grand Theft Auto: Episodes from Liberty City",PS3,"Rockstar Games","Rockstar North",9.0,2.090,0.620,0.990,0.130,0.340,2010-04-13
+875,"Tetris Worlds",PS2,THQ,"Blue Planet Software",0.0,2.080,1.110,0.710,0.000,0.270,2002-03-20
+876,"Sim Theme Park",PC,"Electronic Arts","Bullfrog Productions",8.1,2.080,2.040,0.040,0.000,0.000,1999-10-31
+877,"Rock Band",Wii,"MTV Games","Harmonix Music Systems",8.2,2.080,1.330,0.560,0.000,0.200,2008-06-22
+878,"Portal 2",X360,Valve,"Valve Software",9.6,2.080,1.410,0.490,0.010,0.170,2011-04-19
+879,"Mario Party 7",GC,Nintendo,"Hudson Soft",6.0,1.570,0.950,0.110,0.460,0.040,2005-11-07
+880,"Wipeout: The Game",Wii,Activision,Endemol,0.0,2.080,1.940,0.000,0.000,0.140,2010-06-22
+881,"Metal Gear Solid: Peace Walker",PSP,Konami,"Kojima Productions",8.6,2.080,0.460,0.420,0.960,0.250,2010-06-08
+882,"Spec Ops: Airborne Commando",PS,"Gotham Games","Big Grub",0.0,2.070,1.540,0.460,0.000,0.080,2002-10-31
+883,"Dance Dance Revolution: Hottest Party",Wii,Konami,Bemani,0.0,2.070,1.350,0.530,0.000,0.190,2007-09-25
+884,"The Sims 2: Pets",DS,"Electronic Arts",Maxis,4.8,2.070,0.920,0.930,0.000,0.220,2006-10-31
+885,"Rise of the Tomb Raider",PS4,"Square Enix","Crystal Dynamics",0.0,2.070,0.610,1.080,0.050,0.320,2016-10-11
+886,"UFC 2009 Undisputed",X360,THQ,"Yuke's Osaka",8.4,2.070,1.480,0.390,0.000,0.190,2009-05-19
+887,"Yu-Gi-Oh! The Eternal Duelist Soul",GBA,Konami,"Konami Computer Entertainment Japan",0.0,2.070,1.640,0.360,0.000,0.070,2002-10-15
+888,"LittleBigPlanet 3",PS4,"Sony Computer Entertainment","Sumo Digital",0.0,2.060,0.780,0.930,0.010,0.340,2014-11-18
+889,"Professor Layton and the Last Specter",DS,Nintendo,"Level 5",8.4,2.680,0.280,1.410,0.680,0.320,2011-10-17
+890,"The Incredibles",GBA,THQ,Helixe,5.4,2.060,1.150,0.770,0.040,0.100,2004-10-31
+891,"Call of Duty 2",X360,Activision,"Infinity Ward",8.8,2.060,1.840,0.040,0.010,0.160,2005-11-17
+892,"Hitman: Absolution",PS3,"Square Enix","IO Interactive",0.0,2.060,0.590,1.080,0.070,0.320,2012-11-20
+893,"Toy Story 3: The Video Game",DS,"Disney Interactive Studios","Avalanche Software",0.0,2.060,0.890,0.950,0.020,0.210,2010-06-15
+894,"R4: Ridge Racer Type 4",PS,Namco,Namco,9.1,2.060,0.680,0.460,0.790,0.130,1999-05-04
+895,"Tom Clancy's Splinter Cell: Conviction",X360,Ubisoft,"Ubisoft Montreal",8.6,2.060,1.200,0.620,0.040,0.190,2010-04-13
+896,"Need for Speed: Undercover",PS3,"Electronic Arts","EA Vancouver",5.9,2.060,0.630,1.010,0.050,0.380,2008-11-17
+897,"Need for Speed: ProStreet",X360,"Electronic Arts","EA Black Box",7.1,2.050,1.040,0.790,0.010,0.210,2007-11-15
+898,"The Elder Scrolls Online: Tamriel Unlimited",PS4,"Bethesda Softworks","ZeniMax Online Studios",0.0,2.050,0.740,0.980,0.000,0.330,2015-06-09
+899,"Mortal Kombat vs DC Universe",PS3,"Midway Games","Midway Amusement Games",7.6,2.050,1.520,0.290,0.000,0.250,2008-11-16
+900,"NBA Jam",GEN,"Arena Entertainment","Iguana Entertainment",0.0,2.050,1.750,0.250,0.000,0.050,1993-01-01
+901,"Xenoblade Chronicles 2",NS,Nintendo,"Monolith Soft",8.2,1.400,0.550,0.520,0.240,0.100,2017-12-01
+902,"Famista '89 - Kaimaku Han!!",NES,Namco,Namco,0.0,2.050,0.000,0.000,2.050,0.000,1989-07-28
+903,"Dark Souls",PS3,"Namco Bandai","From Software",9.0,2.050,0.750,0.530,0.540,0.220,2011-10-04
+904,"Middle-Earth: Shadow of War",PS4,"Warner Bros. Interactive Entertainment","Monolith Productions",0.0,2.040,0.820,0.840,0.060,0.330,2017-10-10
+905,"SOCOM: U.S. Navy SEALs: Combined Assault",PS2,"Sony Computer Entertainment","Zipper Interactive",0.0,2.040,1.740,0.020,0.000,0.280,2006-11-07
+906,"Need for Speed: ProStreet",PS3,"Electronic Arts","EA Black Box",7.2,2.040,0.730,0.910,0.040,0.360,2007-11-13
+907,"Madden NFL 25",PS3,"Electronic Arts","EA Tiburon",7.5,2.040,1.620,0.030,0.000,0.380,2013-08-27
+908,"Carnival Games",DS,"2K Play","Cat Daddy Games",0.0,2.040,1.220,0.630,0.000,0.190,2008-07-08
+909,"Peter Jackson's King Kong: The Official Game of the Movie",PS2,Ubisoft,"Ubisoft Montpellier",0.0,2.040,0.710,1.020,0.000,0.310,2005-11-21
+910,"Dead or Alive 3",XB,Tecmo,"Team Ninja",8.3,1.770,1.190,0.290,0.240,0.060,2001-11-14
+911,"PGR4 - Project Gotham Racing 4",X360,"Microsoft Game Studios","Bizarre Creations",8.6,2.040,0.480,1.280,0.020,0.250,2007-10-02
+912,"Dance Central 2",X360,Microsoft,"Harmonix Music Systems",8.6,2.040,1.450,0.410,0.010,0.160,2011-10-25
+913,"Dragon Quest XI: Echoes of an Elusive Age",PS4,"Square Enix","Square Enix",9.5,2.040,0.290,0.220,1.430,0.100,2018-09-04
+914,"NBA 2K17",XOne,"2K Sports","Visual Concepts",8.8,2.040,1.700,0.120,0.000,0.210,2016-09-16
+915,"Skate 3",PS3,"EA Sports","EA Black Box",0.0,2.030,0.790,0.930,0.000,0.320,2010-05-11
+916,"1080°: TenEighty Snowboarding",N64,Nintendo,"Nintendo EAD",9.1,2.030,1.250,0.610,0.130,0.050,1998-03-31
+917,"Mario Hoops 3 on 3",DS,Nintendo,"Square Enix",7.1,1.610,0.980,0.040,0.490,0.090,2006-09-11
+918,"Yoshi's New Island",3DS,Nintendo,Arzest,0.0,1.660,0.510,0.740,0.290,0.110,2014-03-14
+919,"Rayman Raving Rabbids: TV Party",Wii,Ubisoft,"Ubisoft Paris",7.1,2.030,0.720,1.080,0.000,0.230,2008-11-18
+920,"NBA Live 2004",PS2,"EA Sports","EA Canada",0.0,2.030,1.570,0.180,0.000,0.270,2003-10-14
+921,"The Sims 3",PS3,"Electronic Arts","The Sims Studio",8.1,2.030,0.730,0.960,0.020,0.310,2010-10-26
+922,"LEGO City Undercover: The Chase Begins",3DS,Nintendo,"TT Fusion",6.2,1.740,0.540,0.990,0.080,0.120,2013-04-21
+923,"Onimusha: Warlords",PS2,Capcom,Flagship,8.7,2.700,0.990,0.480,1.090,0.140,2001-03-13
+924,"Just Dance 3",X360,Ubisoft,"Ubisoft Paris",5.5,2.020,1.470,0.390,0.000,0.160,2011-10-07
+925,"Rocket League",PS4,"505 Games","Psyonix Studios",8.7,2.020,0.370,1.340,0.000,0.310,2016-07-05
+926,"NBA 2K18",XOne,"2K Sports","Visual Concepts",7.7,2.020,1.670,0.140,0.000,0.210,2017-09-19
+927,"Call of Duty: Black Ops 3",X360,Activision,Treyarch,0.0,2.010,1.360,0.470,0.000,0.190,2015-11-06
+928,"Need for Speed: The Run",PS3,"Electronic Arts","EA Black Box",6.3,2.010,0.580,1.050,0.030,0.350,2011-11-15
+929,"Donkey Kong Country: Tropical Freeze",WiiU,Nintendo,"Retro Studios",8.8,1.710,0.740,0.680,0.160,0.130,2014-02-21
+930,"Dead Space",PS3,"Electronic Arts","EA Redwood Shores",8.9,2.000,1.050,0.660,0.000,0.290,2008-10-13
+931,"Beyond: Two Souls",PS3,"Sony Computer Entertainment","Quantic Dream",0.0,1.700,0.520,0.860,0.060,0.260,2013-10-08
+932,Bloodborne,PS4,"Sony Computer Entertainment","From Software",8.2,3.110,1.300,1.050,0.280,0.480,2015-03-24
+933,"Command & Conquer: Red Alert",PC,"Virgin Interactive","Westwood Studios",9.3,2.850,1.370,1.340,0.000,0.140,1996-11-01
+934,"Deca Sports",Wii,"Hudson Soft",CAProduction,5.3,2.500,1.110,0.860,0.290,0.250,2008-05-13
+935,"Diablo II: Lord of Destruction",PC,"Blizzard Entertainment","Blizzard North",0.0,1.060,1.030,0.030,0.000,0.000,2001-06-27
+936,"Disney Epic Mickey",Wii,"Disney Interactive Studios","Junction Point Studios",7.0,3.020,2.040,0.630,0.120,0.230,2010-11-30
+937,"Dragon Ball Z: Budokai Tenkaichi",PS2,Atari,Spike,0.0,1.660,0.960,0.120,0.540,0.040,2005-10-18
+938,"Dragon Quest Monsters: Joker 2",DS,Nintendo,"TOSE Software",8.1,1.420,0.090,0.070,1.240,0.020,2011-09-19
+939,"Dragon Warrior",NES,Nintendo,ChunSoft,0.0,2.520,0.490,0.000,0.520,1.510,1989-08-01
+940,Driveclub,PS4,"Sony Computer Entertainment","Evolution Studios",7.2,2.370,0.370,1.630,0.020,0.360,2014-10-07
+941,inFAMOUS,PS3,"Sony Computer Entertainment","Sucker Punch Productions",8.7,2.990,1.760,0.680,0.120,0.420,2009-05-26
+942,"Mario + Rabbids: Kingdom Battle",NS,Ubisoft,"Ubisoft Milan",8.3,2.590,1.100,1.080,0.220,0.200,2017-08-29
+943,"Resident Evil 4",Wii,Capcom,"Capcom Production Studio 4",9.2,1.460,1.260,0.060,0.140,0.000,2007-06-19
+944,"Saints Row",X360,THQ,"Volition Inc.",8.0,2.180,1.170,0.770,0.020,0.220,2006-08-29
+945,"Silent Hill",PS,Konami,KCET,8.9,1.600,0.710,0.480,0.300,0.100,1999-01-31
+946,"SimCity (2013)",PC,"Electronic Arts",Maxis,0.0,1.380,0.480,0.790,0.000,0.110,2013-03-05
+947,"Space Invaders",2600,Atari,Atari,0.0,2.530,2.360,0.140,0.000,0.030,1978-01-01
+948,"Star Wars: The Old Republic",PC,"Electronic Arts","BioWare / LucasArts",8.4,2.970,1.590,1.010,0.000,0.370,2011-12-20
+949,"Super Street Fighter II",SNES,Capcom,Capcom,0.0,2.000,0.520,0.160,1.290,0.030,1994-06-01
+950,"WWE SmackDown! Here Comes the Pain",PS2,THQ,Yuke's,0.0,2.800,1.320,1.060,0.040,0.380,2003-10-27
+951,"Your Shape: Fitness Evolved",X360,Ubisoft,"Ubisoft Montreal",7.0,1.320,0.790,0.410,0.000,0.120,2010-11-04
+952,TouchMaster,DS,"Midway Games","Midway Studios San Diego",6.9,2.000,0.480,1.270,0.000,0.240,2007-06-25
+953,"Mortal Kombat vs DC Universe",X360,"Midway Games","Midway Amusement Games",7.6,1.990,1.580,0.230,0.000,0.180,2008-11-16
+954,"Tenchu: Stealth Assassins",PS,Activision,Acquire,8.8,1.990,0.950,0.640,0.270,0.130,1998-08-31
+955,Tennis,GB,Nintendo,"Nintendo R&D1",0.0,1.990,0.750,0.300,0.900,0.040,1989-08-01
+956,"Harry Potter and the Chamber of Secrets",GBA,"Electronic Arts","Eurocom Entertainment Software",7.2,1.990,1.210,0.640,0.050,0.090,2002-11-14
+957,"Just Cause 3",PS4,"Square Enix","Avalanche Studios",7.5,1.980,0.530,1.070,0.090,0.300,2015-12-01
+958,"Harry Potter and the Chamber of Secrets",PS,"Electronic Arts","Argonaut Games",0.0,1.980,0.750,1.090,0.020,0.120,2002-11-14
+959,"Mario Sports Mix",Wii,Nintendo,"Square Enix",6.0,2.080,0.880,0.450,0.630,0.120,2011-02-07
+960,SimCity,SNES,Nintendo,"Intelligent Systems",0.0,1.980,0.930,0.270,0.750,0.040,1991-09-10
+961,"BioShock Infinite",X360,"2K Games","Irrational Games",0.0,1.970,1.220,0.550,0.020,0.180,2013-03-26
+962,"Spyro: Enter the Dragonfly",PS2,"VU Games","Check Six Games",0.0,1.970,0.740,0.950,0.000,0.280,2002-11-03
+963,"Resident Evil 6",X360,Capcom,Capcom,0.0,1.970,1.120,0.610,0.070,0.160,2012-10-02
+964,"E.T.: The Extra Terrestrial",2600,Atari,Atari,0.0,1.970,1.840,0.110,0.000,0.020,1982-01-01
+965,"Dishonored 2",PS4,"Bethesda Softworks","Arkane Studios",0.0,1.970,0.620,1.020,0.010,0.310,2016-11-10
+966,"Hot Shots Golf: Open Tee",PSP,"Sony Computer Entertainment","Clap Hanz",8.4,1.960,0.500,0.500,0.630,0.330,2005-05-03
+967,"Inazuma Eleven 2: Blizzard / Firestorm",DS,"Level 5","Level 5",0.0,1.400,0.000,0.200,1.180,0.020,2009-10-09
+968,"Rad Racer",NES,Nintendo,SquareSoft,0.0,1.960,1.130,0.370,0.410,0.050,1987-01-01
+969,Soccer,NES,Nintendo,"Iwasaki Electronics Co., Ltd.",0.0,1.960,0.180,0.230,1.530,0.020,1987-03-01
+970,"Lego Marvel Super Heroes",PS3,"Warner Bros. Interactive Entertainment","Traveller's Tales",0.0,1.960,0.770,0.850,0.010,0.320,2013-10-22
+971,"Tom Clancy's Rainbow Six: Vegas",X360,Ubisoft,"Ubisoft Montreal",8.8,1.950,1.090,0.650,0.020,0.200,2006-11-20
+972,"Crash Nitro Kart",PS2,"VU Games","Vicarious Visions",0.0,1.950,0.740,1.010,0.000,0.200,2003-11-13
+973,"Grand Theft Auto: San Andreas",XB,"Rockstar Games","Rockstar North",9.2,1.950,1.260,0.610,0.000,0.090,2005-06-07
+974,"Pokémon Battle Revolution",Wii,Nintendo,"Genius Sonority Inc.",5.2,1.590,0.780,0.370,0.300,0.130,2007-06-25
+975,"Star Wars: Dark Forces",PC,LucasArts,LucasArts,0.0,1.950,1.090,0.770,0.000,0.090,1995-02-28
+976,"Call of Duty: Black Ops 3",PS3,Activision,Treyarch,0.0,1.950,0.650,0.920,0.070,0.300,2015-11-06
+977,"Burnout Paradise",PS3,"Electronic Arts","Criterion Games",9.0,1.950,1.010,0.630,0.020,0.280,2008-01-22
+978,"NBA Street Vol. 2",PS2,"EA Sports BIG","EA Canada",0.0,1.950,1.690,0.200,0.000,0.060,2003-04-28
+979,"Forza Horizon",X360,"Microsoft Studios","Playground Games",0.0,1.940,0.820,0.940,0.040,0.160,2012-10-23
+980,Destiny,X360,Activision,Unknown,0.0,1.940,1.320,0.440,0.000,0.190,2014-09-09
+981,"Def Jam Vendetta",PS2,"EA Sports BIG","Aki Corporation",0.0,1.940,0.950,0.740,0.000,0.250,2003-03-31
+982,"Who Wants to be a Millionaire",PC,"Disney Interactive Studios",Jellyvision,0.0,1.940,1.940,0.000,0.000,0.000,1999-11-23
+983,Alleyway,GB,Nintendo,"Nintendo R&D1 / Intelligent Systems",0.0,1.940,0.960,0.380,0.550,0.050,1989-08-01
+984,"Scooby Doo and the Cyber Chase",PS,THQ,Art,0.0,1.940,0.590,1.230,0.000,0.130,2001-10-04
+985,"FIFA Soccer 09",X360,"Electronic Arts","EA Canada",8.7,1.940,0.490,1.260,0.010,0.180,2008-10-14
+986,"Call of Duty: World at War",Wii,Activision,"EXAKT Entertainment",8.1,1.940,1.170,0.580,0.000,0.180,2008-11-10
+987,"Jet Moto 2",PS,"Sony Computer Entertainment",SingleTrac,0.0,1.940,1.410,0.420,0.030,0.070,1997-10-31
+988,"Tom Clancy's Ghost Recon",PS2,Ubisoft,"Red Storm Entertainment",0.0,1.940,1.420,0.400,0.000,0.120,2002-11-11
+989,"X-Men Legends",PS2,Activision,"Raven Software",8.6,1.930,1.000,0.720,0.000,0.210,2004-09-21
+990,"Mortal Kombat II",SNES,"Acclaim Entertainment","Sculptured Software",0.0,1.930,1.480,0.390,0.000,0.060,1994-01-01
+991,"Virtua Fighter 2",SAT,Sega,Sega-AM2,0.0,1.930,0.340,0.260,1.300,0.030,1996-01-01
+992,"The Legend of Zelda: Oracle of Ages",GBC,Nintendo,Flagship,9.4,1.920,0.920,0.530,0.410,0.060,2001-05-13
+993,"Guitar Hero: World Tour",PS3,Activision,"Neversoft Entertainment",8.5,1.920,1.100,0.550,0.000,0.270,2008-10-26
+994,"Red Faction",PS2,THQ,"Volition Inc.",9.1,1.920,0.760,0.960,0.000,0.200,2001-05-21
+995,"The Sims: Makin' Magic",PC,"Electronic Arts",Maxis,0.0,1.920,1.030,0.800,0.000,0.090,2003-10-28
+996,"MX Unleashed",PS2,THQ,"Rainbow Studios",0.0,1.920,0.940,0.730,0.000,0.250,2004-02-17
+997,"Star Wars Battlefront II (2017)",XOne,"Electronic Arts","EA DICE",0.0,1.920,1.150,0.590,0.000,0.170,2017-11-17
+998,"Need for Speed: Shift",X360,"Electronic Arts","Slightly Mad Studios",8.2,1.910,0.730,0.960,0.010,0.220,2009-09-15
+999,"Lego Marvel Super Heroes",PS4,"Warner Bros. Interactive Entertainment","Traveller's Tales",0.0,1.910,0.590,1.000,0.010,0.300,2013-11-15
+1000,"Mario Party 3",N64,Nintendo,"Hudson Soft",7.0,1.910,0.720,0.160,1.010,0.020,2001-05-06

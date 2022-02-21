@@ -1,0 +1,51 @@
+Console_Rank,Platform,Console_Type,Firm,Release_Year,Units_Sold_in_Millions
+1,PS2,Home,Sony,2000,155.00
+2,DS,Handheld,Nintendo,2004,154.02
+3,GB,Handheld,Nintendo,1989,118.69
+4,PS4,Home,Sony,2013,116.60
+5,PS,Home,Sony,1994,102.49
+6,Wii,Home,Nintendo,2006,101.63
+7,NS,Hybrid,Nintendo,2017,92.87
+8,PS3,Home,Sony,2006,87.40
+9,X360,Home,Microsoft,2005,84.00
+10,GBA,Handheld,Nintendo,2001,81.51
+11,PSP,Handheld,Sony,2004,80.00
+12,3DS,Handheld,Nintendo,2011,75.94
+13,NES,Home,Nintendo,1983,61.91
+14,XOne,Home,Microsoft,2013,51.00
+15,SNES,Home,Nintendo,1990,49.10
+16,"Game & Watch",Handheld,Nintendo,1980,43.40
+17,N64,Home,Nintendo,1996,32.93
+18,"Sega Genesis/Mega Drive",Home,Sega,1988,30.75
+19,"Atari 2600",Home,Atari,1977,30.00
+20,"XB ",Home,Microsoft,2001,24.00
+21,GC,Home,Nintendo,2001,21.74
+22,WiiU,Home,Nintendo,2012,13.56
+23,PS5,Home,Sony,2020,13.40
+24,"XB Series X and Series S",Home,Microsoft,2020,12.00
+25,"Sega Game Gear",Handheld,Sega,1990,10.62
+26,PSVita,Handheld,Sony,2011,10.00
+27,"Sega Master System",Home,Sega,1986,10.00
+28,"PC Engine/TurboGrafx-16",Home,NEC,1987,10.00
+29,"Sega Saturn",Home,Sega,1994,9.26
+30,DC,Home,Sega,1998,9.13
+31,"Master System",Home,Tectoy,1989,8.00
+32,"Dendy ",Home,"Micro Genius",1992,6.00
+33,"Super NES Classic Edition",Dedicated,Nintendo,2017,5.28
+34,"Famicom Disk System","Home console add-on",Nintendo,1986,4.50
+35,"Sega Pico",Home,Sega,1993,3.40
+36,WonderSwan,Handheld,Bandai,1999,3.50
+37,"Color TV-Game",Dedicated,Nintendo,1977,3.00
+38,Intellivision,Home,Mattel,1980,3.00
+39,"Mega Drive",Home,Tectoy,1990,3.00
+40,"N-Gage (device)",Handheld,Nokia,2003,3.00
+41,"Sega CD","Home console add-on",Sega,1991,2.77
+42,"NES Classic Edition",Dedicated,Nintendo,2016,2.30
+43,ColecoVision,Home,Coleco,1982,2.00
+44,"Magnavox Odyssey²",Home,Magnavox,1978,2.00
+45,"PC Engine CD-ROM²","Home console add-on",NEC,1988,1.92
+46,"Atari Lynx",Handheld,Atari,1989,1.00
+47,"Philips CD-i",Home,Philips,1990,1.00
+48,"Telstar (game console)",Dedicated,Coleco,1976,1.00
+49,"Atari 5200",Home,Atari,1982,1.00
+50,"Atari 7800",Home,Atari,1986,1.00
