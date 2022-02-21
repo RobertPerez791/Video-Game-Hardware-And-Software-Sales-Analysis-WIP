@@ -1,1 +1,1 @@
-
+A collection of all the data generated and used throughout this analysis.  "BestSellingConsoles" and "vgsales2021" are both the intial versions of their respective data, while "BestSellingConsoles_UpdatedPlatCol", "vgsales2021_clean_dates", and "BestSellingGamesPerConsole" were created by cleaning and formatting inital data sets in MySQL Workbench and were the data sets used for the analysis.  
